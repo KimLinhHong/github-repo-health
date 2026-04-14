@@ -1,0 +1,601 @@
+year,full_name,html_url,created_at,stargazers,forks,open_issues,language,description
+2020,massgravel/Microsoft-Activation-Scripts,https://github.com/massgravel/Microsoft-Activation-Scripts,2020-01-12T23:03:34Z,166392,16013,2,Batchfile,"Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+2020,yt-dlp/yt-dlp,https://github.com/yt-dlp/yt-dlp,2020-10-26T04:22:55Z,147631,11958,2317,Python,A feature-rich command-line audio/video downloader
+2020,labuladong/fucking-algorithm,https://github.com/labuladong/fucking-algorithm,2020-02-19T09:01:23Z,132671,23706,2,Markdown,"刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. "
+2020,excalidraw/excalidraw,https://github.com/excalidraw/excalidraw,2020-01-02T01:04:43Z,117039,12571,2794,TypeScript,Virtual whiteboard for sketching hand-drawn like diagrams
+2020,rustdesk/rustdesk,https://github.com/rustdesk/rustdesk,2020-09-28T15:36:08Z,107744,16023,103,Rust,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+2020,Anduin2017/HowToCook,https://github.com/Anduin2017/HowToCook,2020-02-29T10:43:49Z,98014,10826,470,Dockerfile,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+2020,microsoft/Web-Dev-For-Beginners,https://github.com/microsoft/Web-Dev-For-Beginners,2020-11-10T02:44:00Z,95304,15157,47,JavaScript,"24 Lessons, 12 Weeks, Get Started as a Web Developer"
+2020,anuraghazra/github-readme-stats,https://github.com/anuraghazra/github-readme-stats,2020-07-09T10:34:22Z,78431,30646,249,JavaScript,:zap: Dynamically generated stats for your github readmes
+2020,vitejs/vite,https://github.com/vitejs/vite,2020-04-21T05:03:57Z,78228,7842,618,TypeScript,Next generation frontend tooling. It's fast!
+2020,ventoy/Ventoy,https://github.com/ventoy/Ventoy,2020-03-10T15:19:19Z,74565,4703,907,C,A new bootable USB solution.
+2020,PaddlePaddle/PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR,2020-05-08T10:38:16Z,70910,9838,291,Python,"Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+2020,TapXWorld/ChinaTextbook,https://github.com/TapXWorld/ChinaTextbook,2020-01-05T04:11:06Z,65181,14535,92,Roff,所有小初高、大学PDF教材。
+2020,bradtraversy/design-resources-for-developers,https://github.com/bradtraversy/design-resources-for-developers,2020-05-06T14:40:35Z,64826,11976,5,,"Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+2020,OpenBB-finance/OpenBB,https://github.com/OpenBB-finance/OpenBB,2020-12-20T10:46:38Z,60477,5897,59,Python,"Financial data platform for analysts, quants and AI agents."
+2020,FuelLabs/fuel-core,https://github.com/FuelLabs/fuel-core,2020-08-27T21:12:14Z,57366,2859,183,Rust,Rust full node implementation of the Fuel v2 protocol.
+2020,ultralytics/yolov5,https://github.com/ultralytics/yolov5,2020-05-18T03:45:11Z,56821,17432,44,Python,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+2020,Z4nzu/hackingtool,https://github.com/Z4nzu/hackingtool,2020-04-11T09:21:31Z,55004,6000,87,Python,ALL IN ONE Hacking Tool For Hackers
+2020,WerWolv/ImHex,https://github.com/WerWolv/ImHex,2020-11-10T14:27:00Z,52648,2338,326,C++,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
+2020,sickcodes/Docker-OSX,https://github.com/sickcodes/Docker-OSX,2020-06-04T11:01:37Z,52167,2901,414,Shell,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+2020,AlistGo/alist,https://github.com/AlistGo/alist,2020-12-23T17:40:29Z,49029,7986,578,Go,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。"
+2020,type-challenges/type-challenges,https://github.com/type-challenges/type-challenges,2020-07-23T14:33:11Z,47679,5213,33088,TypeScript,Collection of TypeScript type challenges with online judge
+2020,bigskysoftware/htmx,https://github.com/bigskysoftware/htmx,2020-04-13T16:17:51Z,47456,1568,660,JavaScript,</> htmx - high power tools for HTML
+2020,bevyengine/bevy,https://github.com/bevyengine/bevy,2020-01-18T21:13:55Z,44684,4396,3273,Rust,A refreshingly simple data-driven game engine built in Rust
+2020,NaiboWang/EasySpider,https://github.com/NaiboWang/EasySpider,2020-07-18T02:41:27Z,44096,5394,266,JavaScript,A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+2020,SimplifyJobs/Summer2026-Internships,https://github.com/SimplifyJobs/Summer2026-Internships,2020-05-23T20:53:18Z,43463,3166,2,Python,Collection of Summer 2026 tech internships!
+2020,helix-editor/helix,https://github.com/helix-editor/helix,2020-06-01T04:26:56Z,42991,3317,1431,Rust,A post-modern modal text editor.
+2020,mingrammer/diagrams,https://github.com/mingrammer/diagrams,2020-02-02T15:23:24Z,42015,2720,382,Python,:art: Diagram as Code for prototyping cloud system architectures
+2020,colinhacks/zod,https://github.com/colinhacks/zod,2020-03-07T20:59:08Z,41887,1819,247,TypeScript,TypeScript-first schema validation with static type inference
+2020,siyuan-note/siyuan,https://github.com/siyuan-note/siyuan,2020-08-30T09:21:35Z,41335,2566,370,TypeScript,"A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+2020,logseq/logseq,https://github.com/logseq/logseq,2020-05-23T00:06:06Z,41070,2456,1034,Clojure,"A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
+2020,saadeghi/daisyui,https://github.com/saadeghi/daisyui,2020-11-28T22:57:27Z,40295,1609,50,Svelte,"🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library"
+2020,Raphire/Win11Debloat,https://github.com/Raphire/Win11Debloat,2020-10-27T22:26:59Z,39774,1542,27,PowerShell,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
+2020,charmbracelet/bubbletea,https://github.com/charmbracelet/bubbletea,2020-01-10T21:04:03Z,39592,1094,157,Go,A powerful little TUI framework 🏗
+2020,trpc/trpc,https://github.com/trpc/trpc,2020-07-18T01:17:11Z,39562,1487,183,TypeScript,🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
+2020,freefq/free,https://github.com/freefq/free,2020-06-07T02:48:33Z,39485,5671,552,,翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+2020,gofiber/fiber,https://github.com/gofiber/fiber,2020-01-16T03:59:20Z,39228,1955,42,Go,⚡️ Express inspired web framework written in Go
+2020,appsmithorg/appsmith,https://github.com/appsmithorg/appsmith,2020-06-30T04:07:36Z,39109,4458,4439,TypeScript,"Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API."
+2020,pola-rs/polars,https://github.com/pola-rs/polars,2020-05-13T19:45:33Z,37475,2629,2729,Rust,"Extremely fast Query Engine for DataFrames, written in Rust"
+2020,remotion-dev/remotion,https://github.com/remotion-dev/remotion,2020-06-23T19:49:10Z,37151,2272,79,TypeScript,🎥      Make videos programmatically with React
+2020,CorentinTh/it-tools,https://github.com/CorentinTh/it-tools,2020-04-05T11:50:24Z,37138,4624,752,Vue,"Collection of handy online tools for developers, with great UX. "
+2020,ManimCommunity/manim,https://github.com/ManimCommunity/manim,2020-05-19T02:37:13Z,36820,2659,452,Python,A community-maintained Python framework for creating mathematical animations. 
+2020,geekxh/hello-algorithm,https://github.com/geekxh/hello-algorithm,2020-05-29T05:47:09Z,36015,6463,11,Java,🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+2020,juanfont/headscale,https://github.com/juanfont/headscale,2020-06-21T09:21:05Z,35534,1905,118,Go,"An open source, self-hosted implementation of the Tailscale control server"
+2020,amruthpillai/reactive-resume,https://github.com/amruthpillai/reactive-resume,2020-03-25T14:08:22Z,35295,3876,48,TypeScript,"A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!"
+2020,umami-software/umami,https://github.com/umami-software/umami,2020-07-17T07:59:00Z,35286,6474,137,TypeScript,"Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude."
+2020,XTLS/Xray-core,https://github.com/XTLS/Xray-core,2020-11-09T11:23:10Z,35180,4966,43,Go,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+2020,carbon-language/carbon-lang,https://github.com/carbon-language/carbon-lang,2020-04-27T21:45:16Z,33640,1525,211,C++,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)"
+2020,ajeetdsouza/zoxide,https://github.com/ajeetdsouza/zoxide,2020-03-05T13:11:40Z,33506,737,153,Rust,A smarter cd command. Supports all major shells.
+2020,zeromicro/go-zero,https://github.com/zeromicro/go-zero,2020-08-07T15:37:57Z,32666,4280,306,Go,A cloud-native Go microservices framework with cli tool for productivity.
+2020,backstage/backstage,https://github.com/backstage/backstage,2020-01-24T22:39:49Z,32632,7096,442,TypeScript,Backstage is an open framework for building developer portals
+2020,openai/CLIP,https://github.com/openai/CLIP,2020-12-16T11:24:42Z,32606,3921,268,Jupyter Notebook,"CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
+2020,qier222/YesPlayMusic,https://github.com/qier222/YesPlayMusic,2020-10-09T10:04:21Z,32582,4728,641,Vue,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
+2020,remix-run/remix,https://github.com/remix-run/remix,2020-10-26T19:57:28Z,32341,2734,51,TypeScript,"Build Better Websites. Create modern, resilient user experiences with web fundamentals."
+2020,medusajs/medusa,https://github.com/medusajs/medusa,2020-01-18T13:39:04Z,32079,4071,146,TypeScript,The world's most flexible commerce platform.
+2020,vbenjs/vue-vben-admin,https://github.com/vbenjs/vue-vben-admin,2020-07-11T02:29:21Z,31563,8594,95,Vue,"A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!"
+2020,tinygrad/tinygrad,https://github.com/tinygrad/tinygrad,2020-10-18T16:23:12Z,31399,3907,228,Python,You like pytorch? You like micrograd? You love tinygrad! ❤️ 
+2020,PostHog/posthog,https://github.com/PostHog/posthog,2020-01-23T22:46:58Z,31312,2290,3121,Python,"🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack."
+2020,AMAI-GmbH/AI-Expert-Roadmap,https://github.com/AMAI-GmbH/AI-Expert-Roadmap,2020-10-24T21:49:40Z,30742,2568,18,JavaScript,Roadmap to becoming an Artificial Intelligence Expert in 2022
+2020,openai/openai-python,https://github.com/openai/openai-python,2020-10-25T23:23:54Z,29976,4563,266,Python,The official Python library for the OpenAI API
+2020,qarmin/czkawka,https://github.com/qarmin/czkawka,2020-09-01T17:37:29Z,29314,967,423,Rust,"Multi functional app to find duplicates, empty folders, similar images etc."
+2020,filamentphp/filament,https://github.com/filamentphp/filament,2020-03-19T00:19:18Z,29300,4085,46,PHP,A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
+2020,saturn-abhishek/awesome-github-profile-readme,https://github.com/saturn-abhishek/awesome-github-profile-readme,2020-07-12T12:57:25Z,29188,4274,628,,😎 A curated list of awesome GitHub Profile which updates in real time 
+2020,zellij-org/zellij,https://github.com/zellij-org/zellij,2020-09-01T14:04:28Z,29184,966,1489,Rust,A terminal workspace with batteries included
+2020,JaidedAI/EasyOCR,https://github.com/JaidedAI/EasyOCR,2020-03-14T11:46:39Z,28974,3535,525,Python,"Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc."
+2020,qdrant/qdrant,https://github.com/qdrant/qdrant,2020-05-30T21:37:01Z,28904,2045,465,Rust,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+2020,tailscale/tailscale,https://github.com/tailscale/tailscale,2020-01-31T22:00:03Z,28479,2288,4168,Go,"The easiest, most secure way to use WireGuard and 2FA."
+2020,tailwindlabs/headlessui,https://github.com/tailwindlabs/headlessui,2020-09-16T09:53:09Z,28409,1189,80,TypeScript,"Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+2020,atuinsh/atuin,https://github.com/atuinsh/atuin,2020-10-04T23:01:58Z,28332,777,446,Rust,✨ Magical shell history
+2020,yuliskov/SmartTube,https://github.com/yuliskov/SmartTube,2020-07-28T12:53:52Z,28260,1518,3012,Java,Browse media content with your own rules on Android TV
+2020,521xueweihan/GitHub520,https://github.com/521xueweihan/GitHub520,2020-05-13T07:25:21Z,27881,2654,14,Python,:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+2020,coder2gwy/coder2gwy,https://github.com/coder2gwy/coder2gwy,2020-12-30T14:40:50Z,27584,3725,128,,互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+2020,element-plus/element-plus,https://github.com/element-plus/element-plus,2020-07-21T06:51:19Z,27168,19859,1299,TypeScript,🎉 A Vue.js 3 UI Library made by Element team
+2020,projectdiscovery/nuclei,https://github.com/projectdiscovery/nuclei,2020-04-03T18:47:11Z,27101,3160,242,Go,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+2020,srbhr/Resume-Matcher,https://github.com/srbhr/Resume-Matcher,2020-04-08T03:26:49Z,25981,4699,27,TypeScript,"Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. "
+2020,jj-vcs/jj,https://github.com/jj-vcs/jj,2020-12-18T04:05:27Z,25902,925,1015,Rust,A Git-compatible VCS that is both simple and powerful
+2020,mattermost-community/focalboard,https://github.com/mattermost-community/focalboard,2020-10-06T16:46:23Z,25868,2482,777,TypeScript,"Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana."
+2020,anomalyco/sst,https://github.com/anomalyco/sst,2020-08-04T20:28:14Z,25501,2023,313,TypeScript,Build full-stack apps on your own infrastructure.
+2020,withfig/autocomplete,https://github.com/withfig/autocomplete,2020-09-29T02:21:06Z,25080,5508,190,TypeScript,IDE-style autocomplete for your existing terminal & shell
+2020,blackmatrix7/ios_rule_script,https://github.com/blackmatrix7/ios_rule_script,2020-06-30T05:40:53Z,24772,3887,336,JavaScript,分流规则、重写写规则及脚本。
+2020,XIU2/CloudflareSpeedTest,https://github.com/XIU2/CloudflareSpeedTest,2020-08-30T14:24:52Z,24700,4807,24,Go,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+2020,BeyondDimension/SteamTools,https://github.com/BeyondDimension/SteamTools,2020-12-15T13:52:11Z,24485,1593,1099,C#,🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+2020,Loyalsoldier/clash-rules,https://github.com/Loyalsoldier/clash-rules,2020-07-30T23:53:49Z,24432,2019,7,,🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+2020,GraphiteEditor/Graphite,https://github.com/GraphiteEditor/Graphite,2020-04-26T07:29:29Z,24225,1078,470,Rust,"Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing"
+2020,leiurayer/downkyi,https://github.com/leiurayer/downkyi,2020-12-26T03:27:42Z,24085,2558,699,,哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+2020,rahuldkjain/github-profile-readme-generator,https://github.com/rahuldkjain/github-profile-readme-generator,2020-07-15T11:20:48Z,23999,8252,407,TypeScript,"🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI."
+2020,Anjok07/ultimatevocalremovergui,https://github.com/Anjok07/ultimatevocalremovergui,2020-07-20T21:29:01Z,23669,1766,1343,Python, GUI for a Vocal Remover that uses Deep Neural Networks.
+2020,karpathy/minGPT,https://github.com/karpathy/minGPT,2020-08-17T07:08:48Z,23624,3110,81,Python,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+2020,tailwindlabs/heroicons,https://github.com/tailwindlabs/heroicons,2020-02-24T14:16:00Z,23350,1319,1,JavaScript,A set of free MIT-licensed high-quality SVG icons for UI development.
+2020,dotnet/maui,https://github.com/dotnet/maui,2020-05-08T18:11:05Z,23181,1913,4512,C#,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+2020,facebook/lexical,https://github.com/facebook/lexical,2020-12-03T22:53:26Z,22971,2085,561,TypeScript,"Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance."
+2020,xiaojieonly/Ehviewer_CN_SXJ,https://github.com/xiaojieonly/Ehviewer_CN_SXJ,2020-11-09T06:14:31Z,22462,594,375,C,ehviewer，用爱发电，快乐前行
+2020,serengil/deepface,https://github.com/serengil/deepface,2020-02-08T20:42:28Z,22222,3033,6,Python,"A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python"
+2020,danielgatis/rembg,https://github.com/danielgatis/rembg,2020-08-10T14:38:24Z,21906,2228,8,Python,Rembg is a tool to remove images background
+2020,amusi/CVPR2025-Papers-with-Code,https://github.com/amusi/CVPR2025-Papers-with-Code,2020-02-26T06:04:25Z,21863,2778,22,,CVPR 2025 论文和开源项目合集
+2020,jina-ai/serve,https://github.com/jina-ai/serve,2020-02-13T17:04:44Z,21826,2238,18,Python,☁️ Build multimodal AI applications with cloud-native stack
+2020,slint-ui/slint,https://github.com/slint-ui/slint,2020-05-04T08:53:03Z,21779,819,832,Rust,"Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps."
+2020,nocobase/nocobase,https://github.com/nocobase/nocobase,2020-10-24T07:27:48Z,21537,2442,261,TypeScript,NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+2020,gitui-org/gitui,https://github.com/gitui-org/gitui,2020-03-16T14:38:01Z,21426,692,281,Rust,Blazing 💥 fast terminal-ui for git written in rust 🦀
+2020,huggingface/datasets,https://github.com/huggingface/datasets,2020-03-26T09:23:22Z,21195,3102,1061,Python,"🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
+2020,lucide-icons/lucide,https://github.com/lucide-icons/lucide,2020-06-08T15:36:21Z,21168,1190,492,TypeScript,Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+2021,oven-sh/bun,https://github.com/oven-sh/bun,2021-04-14T00:48:17Z,87436,4067,5906,Zig,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+2021,louislam/uptime-kuma,https://github.com/louislam/uptime-kuma,2021-07-03T01:02:42Z,82975,7416,691,JavaScript,A fancy self-hosted monitoring tool
+2021,zed-industries/zed,https://github.com/zed-industries/zed,2021-02-20T03:01:06Z,75578,6997,3482,Rust,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+2021,AppFlowy-IO/AppFlowy,https://github.com/AppFlowy-IO/AppFlowy,2021-06-16T12:56:48Z,68150,4900,940,Dart,"Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative."
+2021,FuelLabs/sway,https://github.com/FuelLabs/sway,2021-01-19T20:54:33Z,61938,5431,884,Rust,🌴 Empowering everyone to build reliable and efficient smart contracts.
+2021,usememos/memos,https://github.com/usememos/memos,2021-12-08T15:30:18Z,57038,4133,67,Go,"An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees."
+2021,withastro/astro,https://github.com/withastro/astro,2021-03-15T17:19:47Z,56939,3152,244,TypeScript,The web framework for content-driven websites. ⭐️ Star to support our work!
+2021,coollabsio/coolify,https://github.com/coollabsio/coolify,2021-01-25T20:54:01Z,50814,3630,634,PHP,"An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers."
+2021,microsoft/AI-For-Beginners,https://github.com/microsoft/AI-For-Beginners,2021-03-03T16:27:36Z,45384,9234,5,Jupyter Notebook,"12 Weeks, 24 Lessons, AI for All!"
+2021,tldraw/tldraw,https://github.com/tldraw/tldraw,2021-05-09T11:48:37Z,45256,2965,314,TypeScript,very good whiteboard infinite canvas SDK
+2021,google/zx,https://github.com/google/zx,2021-05-05T05:50:01Z,45163,1204,40,JavaScript,A tool for writing better scripts
+2021,KRTirtho/spotube,https://github.com/KRTirtho/spotube,2021-02-14T03:17:58Z,44412,1980,737,Dart,🎧 Open source music streaming app! Available for both desktop & mobile!
+2021,FuelLabs/fuels-rs,https://github.com/FuelLabs/fuels-rs,2021-10-31T22:33:54Z,43423,1360,69,Rust,Fuel Network Rust SDK
+2021,FuelLabs/fuels-ts,https://github.com/FuelLabs/fuels-ts,2021-09-03T18:11:03Z,43377,1366,65,TypeScript,Fuel Network Typescript SDK
+2021,hpcaitech/ColossalAI,https://github.com/hpcaitech/ColossalAI,2021-10-28T16:19:44Z,41348,4533,493,Python,"Making large AI models cheaper, faster and more accessible"
+2021,payloadcms/payload,https://github.com/payloadcms/payload,2021-01-05T18:49:45Z,40670,3385,768,TypeScript,"Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+2021,calcom/cal.com,https://github.com/calcom/cal.com,2021-03-22T13:47:42Z,40257,11964,1359,TypeScript,Scheduling infrastructure for absolutely everyone.
+2021,novuhq/novu,https://github.com/novuhq/novu,2021-08-26T15:22:44Z,38590,4216,163,TypeScript,"The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations."
+2021,ToolJet/ToolJet,https://github.com/ToolJet/ToolJet,2021-03-30T08:51:34Z,37446,4946,968,JavaScript,"ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+2021,TencentARC/GFPGAN,https://github.com/TencentARC/GFPGAN,2021-03-19T06:18:20Z,37379,6278,399,Python,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+2021,spacedriveapp/spacedrive,https://github.com/spacedriveapp/spacedrive,2021-09-27T05:09:04Z,37009,1205,23,Rust,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+2021,babysor/MockingBird,https://github.com/babysor/MockingBird,2021-08-07T03:53:39Z,36873,5245,482,Python,🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
+2021,YunaiV/ruoyi-vue-pro,https://github.com/YunaiV/ruoyi-vue-pro,2021-01-24T03:18:25Z,35449,7677,3,Java,🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+2021,DioxusLabs/dioxus,https://github.com/DioxusLabs/dioxus,2021-01-15T01:57:26Z,34759,1547,645,Rust,"Fullstack app framework for web, desktop, and mobile."
+2021,LizardByte/Sunshine,https://github.com/LizardByte/Sunshine,2021-12-15T23:38:57Z,34589,1702,106,C++,Self-hosted game stream host for Moonlight.
+2021,alan2207/bulletproof-react,https://github.com/alan2207/bulletproof-react,2021-05-30T14:47:16Z,34456,3141,53,TypeScript,"🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. "
+2021,xinntao/Real-ESRGAN,https://github.com/xinntao/Real-ESRGAN,2021-07-19T03:23:30Z,34367,4266,635,Python,Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+2021,Textualize/textual,https://github.com/Textualize/textual,2021-04-08T15:24:47Z,34351,1099,250,Python,The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+2021,refinedev/refine,https://github.com/refinedev/refine,2021-01-20T12:01:32Z,34097,2934,30,TypeScript,"A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
+2021,anoma/anoma,https://github.com/anoma/anoma,2021-02-02T10:00:16Z,34059,4113,149,Elixir,Reference implementation of Anoma
+2021,microsoft/Data-Science-For-Beginners,https://github.com/microsoft/Data-Science-For-Beginners,2021-03-03T16:30:15Z,33957,6954,4,Jupyter Notebook,"10 Weeks, 20 Lessons, Data Science for All!"
+2021,IceWhaleTech/CasaOS,https://github.com/IceWhaleTech/CasaOS,2021-09-26T02:33:09Z,33220,1864,789,Go,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
+2021,drizzle-team/drizzle-orm,https://github.com/drizzle-team/drizzle-orm,2021-06-24T09:03:05Z,32839,1200,1565,TypeScript,ORM
+2021,ibraheemdev/modern-unix,https://github.com/ibraheemdev/modern-unix,2021-01-12T00:50:14Z,32762,822,67,,A collection of modern/faster/saner alternatives to common unix commands.
+2021,khoj-ai/khoj,https://github.com/khoj-ai/khoj,2021-08-16T01:48:44Z,32529,1963,92,Python,"Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+2021,linera-io/linera-protocol,https://github.com/linera-io/linera-protocol,2021-12-19T04:09:21Z,32127,2292,566,Rust,Main repository for the Linera protocol
+2021,valinet/ExplorerPatcher,https://github.com/valinet/ExplorerPatcher,2021-08-09T14:17:24Z,31587,1283,300,C,This project aims to enhance the working environment on Windows
+2021,surrealdb/surrealdb,https://github.com/surrealdb/surrealdb,2021-12-09T15:03:29Z,31217,1138,638,Rust,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+2021,DevToys-app/DevToys,https://github.com/DevToys-app/DevToys,2021-09-29T01:40:41Z,30976,1709,317,C#,A Swiss Army knife for developers.
+2021,mantinedev/mantine,https://github.com/mantinedev/mantine,2021-01-07T14:02:19Z,30571,2245,46,TypeScript,A fully featured React components library
+2021,aristocratos/btop,https://github.com/aristocratos/btop,2021-05-06T18:40:21Z,30390,915,454,C++,A monitor of resources
+2021,dgtlmoon/changedetection.io,https://github.com/dgtlmoon/changedetection.io,2021-01-27T16:03:30Z,30271,1683,325,Python,"Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!"
+2021,dragonflydb/dragonfly,https://github.com/dragonflydb/dragonfly,2021-12-11T10:00:42Z,30001,1147,309,C++,A modern replacement for Redis and Memcached
+2021,vercel/turborepo,https://github.com/vercel/turborepo,2021-10-05T17:37:11Z,29827,2253,137,Rust,"Build system optimized for JavaScript and TypeScript, written in Rust"
+2021,waydabber/BetterDisplay,https://github.com/waydabber/BetterDisplay,2021-10-24T08:32:56Z,29821,549,154,,"Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!"
+2021,honojs/hono,https://github.com/honojs/hono,2021-12-14T20:05:30Z,28857,936,357,TypeScript,Web framework built on Web Standards
+2021,binwiederhier/ntfy,https://github.com/binwiederhier/ntfy,2021-10-23T19:25:32Z,28830,1186,318,Go,Send push notifications to your phone or desktop using PUT/POST
+2021,heroui-inc/heroui,https://github.com/heroui-inc/heroui,2021-04-22T13:06:23Z,28165,2060,296,TypeScript,"🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+2021,NvChad/NvChad,https://github.com/NvChad/NvChad,2021-03-07T14:33:17Z,27882,2276,1,Lua,"Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience."
+2021,Z-Siqi/Clash-for-Windows_Chinese,https://github.com/Z-Siqi/Clash-for-Windows_Chinese,2021-04-19T08:13:23Z,27704,3203,1,JavaScript,"clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序"
+2021,abiosoft/colima,https://github.com/abiosoft/colima,2021-09-04T09:52:22Z,27007,534,374,Go,Container runtimes on macOS (and Linux) with minimal setup
+2021,MetaCubeX/mihomo,https://github.com/MetaCubeX/mihomo,2021-05-20T11:06:33Z,26987,3667,364,Python,A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+2021,forthespada/CS-Books,https://github.com/forthespada/CS-Books,2021-01-10T09:49:05Z,26266,4085,14,,🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+2021,warpdotdev/Warp,https://github.com/warpdotdev/Warp,2021-07-08T18:48:08Z,25953,616,4265,,"Warp is the agentic development environment, built for coding with multiple AI agents."
+2021,SigNoz/signoz,https://github.com/SigNoz/signoz,2021-01-03T12:44:36Z,25790,1967,1555,TypeScript,"SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool"
+2021,searxng/searxng,https://github.com/searxng/searxng,2021-04-12T15:18:15Z,25104,2483,233,Python,SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+2021,tokio-rs/axum,https://github.com/tokio-rs/axum,2021-05-30T09:22:25Z,25016,1349,75,Rust,HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+2021,wg-easy/wg-easy,https://github.com/wg-easy/wg-easy,2021-05-22T09:12:05Z,24634,2344,38,TypeScript,The easiest way to run WireGuard VPN + Web-based Admin UI.
+2021,pppscn/SmsForwarder,https://github.com/pppscn/SmsForwarder,2021-02-10T02:23:07Z,24578,3124,5,Kotlin,短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+2021,hcengineering/platform,https://github.com/hcengineering/platform,2021-08-02T19:39:23Z,24446,1705,776,TypeScript,"Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
+2021,Lissy93/dashy,https://github.com/Lissy93/dashy,2021-02-28T10:35:44Z,24017,1768,205,Vue,"🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!"
+2021,dataease/dataease,https://github.com/dataease/dataease,2021-02-02T04:10:21Z,23417,4027,66,Java,🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+2021,lxgw/LxgwWenKai,https://github.com/lxgw/LxgwWenKai,2021-01-30T15:41:52Z,23199,602,6,Shell,An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
+2021,netbirdio/netbird,https://github.com/netbirdio/netbird,2021-04-14T12:27:20Z,22700,1110,1315,Go,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls."
+2021,Johnshall/Shadowrocket-ADBlock-Rules-Forever,https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever,2021-12-06T09:06:28Z,22318,1464,28,,提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+2021,dibingfa/flash-linux0.11-talk,https://github.com/dibingfa/flash-linux0.11-talk,2021-11-06T04:58:25Z,22052,2914,55,HTML,你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+2021,QwikDev/qwik,https://github.com/QwikDev/qwik,2021-05-19T15:33:32Z,21927,1380,108,TypeScript,"Instant-loading web apps, without effort"
+2021,scottbez1/smartknob,https://github.com/scottbez1/smartknob,2021-10-24T03:48:44Z,21414,1232,71,C++,Haptic input knob with software-defined endstops and virtual detents
+2021,krayin/laravel-crm,https://github.com/krayin/laravel-crm,2021-06-05T14:18:48Z,21344,1375,150,PHP,Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+2021,marticliment/UniGetUI,https://github.com/marticliment/UniGetUI,2021-06-15T12:57:58Z,21180,718,284,C#,UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+2021,AutomaApp/automa,https://github.com/AutomaApp/automa,2021-10-02T08:48:43Z,21022,2292,353,Vue,A browser extension for automating your browser by connecting blocks
+2021,neondatabase/neon,https://github.com/neondatabase/neon,2021-03-26T14:20:47Z,20965,883,518,Rust,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero."
+2021,maboloshi/github-chinese,https://github.com/maboloshi/github-chinese,2021-09-27T08:47:55Z,20748,1142,41,JavaScript,GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+2021,lima-vm/lima,https://github.com/lima-vm/lima,2021-05-14T07:30:56Z,20251,814,423,Go,"Linux virtual machines, with a focus on running containers"
+2021,fastfetch-cli/fastfetch,https://github.com/fastfetch-cli/fastfetch,2021-02-18T21:25:19Z,20184,689,51,C,"A maintained, feature-rich and performance oriented, neofetch like system information tool."
+2021,SpotX-Official/SpotX,https://github.com/SpotX-Official/SpotX,2021-08-11T18:01:20Z,19866,1012,1,PowerShell,SpotX patcher used for patching the desktop version of Spotify
+2021,pgvector/pgvector,https://github.com/pgvector/pgvector,2021-04-20T21:13:52Z,19865,1069,13,C,Open-source vector similarity search for Postgres
+2021,Atlas-OS/Atlas,https://github.com/Atlas-OS/Atlas,2021-02-08T00:26:23Z,19769,710,4,Batchfile,"🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability."
+2021,MaaAssistantArknights/MaaAssistantArknights,https://github.com/MaaAssistantArknights/MaaAssistantArknights,2021-07-09T18:26:38Z,19609,2491,585,C++,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+2021,Universidade-Livre/ciencia-da-computacao,https://github.com/Universidade-Livre/ciencia-da-computacao,2021-06-27T19:16:24Z,19465,1541,5,,🎓 Um caminho para a educação autodidata em Ciência da Computação!
+2021,whyour/qinglong,https://github.com/whyour/qinglong,2021-03-13T15:21:04Z,19227,3234,104,TypeScript,"支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）"
+2021,0x192/universal-android-debloater,https://github.com/0x192/universal-android-debloater,2021-10-07T12:08:51Z,18812,989,583,Rust,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device."
+2021,RunaCapital/awesome-oss-alternatives,https://github.com/RunaCapital/awesome-oss-alternatives,2021-11-15T09:38:58Z,18792,1010,74,Python,Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+2021,unocss/unocss,https://github.com/unocss/unocss,2021-09-30T17:06:46Z,18608,965,178,TypeScript,The instant on-demand atomic CSS engine.
+2021,catppuccin/catppuccin,https://github.com/catppuccin/catppuccin,2021-11-06T02:11:59Z,18414,336,85,TypeScript,😸 Soothing pastel theme for the high-spirited!
+2021,tusen-ai/naive-ui,https://github.com/tusen-ai/naive-ui,2021-06-04T13:47:28Z,18138,1851,627,TypeScript,A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+2021,zincsearch/zincsearch,https://github.com/zincsearch/zincsearch,2021-12-02T12:49:41Z,17741,770,46,Go,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go."
+2021,fastapi/sqlmodel,https://github.com/fastapi/sqlmodel,2021-08-24T14:26:53Z,17647,805,116,Python,"SQL databases in Python, designed for simplicity, compatibility, and robustness."
+2021,aidenybai/million,https://github.com/aidenybai/million,2021-05-29T18:38:23Z,17524,590,125,TypeScript,Optimizing compiler for React
+2021,exaloop/codon,https://github.com/exaloop/codon,2021-09-27T17:56:34Z,16600,591,86,Python,"A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support"
+2021,Wechat-ggGitHub/Awesome-GitHub-Repo,https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo,2021-12-27T06:28:51Z,16547,1815,243,,收集整理 GitHub 上高质量、有趣的开源项目。
+2021,Evil0ctal/Douyin_TikTok_Download_API,https://github.com/Evil0ctal/Douyin_TikTok_Download_API,2021-11-07T01:35:09Z,16332,2396,136,Python,🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+2021,SimplifyJobs/New-Grad-Positions,https://github.com/SimplifyJobs/New-Grad-Positions,2021-06-08T18:44:46Z,16303,1262,17,,"A collection of full time roles in SWE, Quant, and PM for new grads."
+2021,vitest-dev/vitest,https://github.com/vitest-dev/vitest,2021-12-03T19:19:49Z,15965,1647,363,TypeScript,Next generation testing framework powered by Vite.
+2021,iDvel/rime-ice,https://github.com/iDvel/rime-ice,2021-01-29T10:25:46Z,15732,1004,13,Lua,Rime 配置：雾凇拼音 | 长期维护的简体词库
+2021,microsoft/Swin-Transformer,https://github.com/microsoft/Swin-Transformer,2021-03-25T12:42:36Z,15713,2212,204,Python,"This is an official implementation for ""Swin Transformer: Hierarchical Vision Transformer using Shifted Windows""."
+2021,openimsdk/open-im-server,https://github.com/openimsdk/open-im-server,2021-05-26T09:26:32Z,15687,2788,153,Go,IM Chat ChatGPT
+2021,lyswhut/lx-music-mobile,https://github.com/lyswhut/lx-music-mobile,2021-05-15T09:53:57Z,15636,1771,641,TypeScript,一个基于 React native 开发的音乐软件
+2021,arthurspk/guiadevbrasil,https://github.com/arthurspk/guiadevbrasil,2021-10-15T18:37:21Z,15572,1805,23,,"Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia."
+2021,projectdiscovery/katana,https://github.com/projectdiscovery/katana,2021-01-02T16:56:05Z,15572,941,36,Go,A next-generation crawling and spidering framework.
+2022,AUTOMATIC1111/stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui,2022-08-22T14:05:26Z,160643,29972,2461,Python,Stable Diffusion web UI
+2022,f/prompts.chat,https://github.com/f/prompts.chat,2022-12-05T13:54:13Z,145495,19188,7,HTML,"a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+2022,langchain-ai/langchain,https://github.com/langchain-ai/langchain,2022-10-17T02:58:36Z,126934,20885,387,Python,🦜🔗 The platform for reliable agents.
+2022,krahets/hello-algo,https://github.com/krahets/hello-algo,2022-11-04T11:08:34Z,122345,14833,26,Java,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+2022,immich-app/immich,https://github.com/immich-app/immich,2022-02-03T15:56:27Z,92867,4930,712,TypeScript,High performance self-hosted photo and video management solution.
+2022,localsend/localsend,https://github.com/localsend/localsend,2022-12-16T00:46:07Z,75191,4005,883,Dart,An open-source cross-platform alternative to AirDrop
+2022,CompVis/stable-diffusion,https://github.com/CompVis/stable-diffusion,2022-08-10T14:36:44Z,72371,10581,612,Jupyter Notebook,A latent text-to-image diffusion model
+2022,dair-ai/Prompt-Engineering-Guide,https://github.com/dair-ai/Prompt-Engineering-Guide,2022-12-16T16:04:50Z,70495,7522,243,MDX,"🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+2022,toeverything/AFFiNE,https://github.com/toeverything/AFFiNE,2022-07-31T18:45:21Z,63009,4390,577,TypeScript,"There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. "
+2022,pathwaycom/pathway,https://github.com/pathwaycom/pathway,2022-11-27T13:01:14Z,59694,1611,30,Python,"Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+2022,PlexPt/awesome-chatgpt-prompts-zh,https://github.com/PlexPt/awesome-chatgpt-prompts-zh,2022-12-12T01:55:03Z,58345,13588,42,,ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+2022,pocketbase/pocketbase,https://github.com/pocketbase/pocketbase,2022-07-05T06:06:21Z,56197,3124,22,Go,Open Source realtime backend in 1 file
+2022,lencx/ChatGPT,https://github.com/lencx/ChatGPT,2022-12-07T09:43:02Z,54385,6212,918,Rust,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+2022,karpathy/nanoGPT,https://github.com/karpathy/nanoGPT,2022-12-28T00:51:12Z,53433,9041,332,Python,"The simplest, fastest repository for training/finetuning medium-sized GPTs."
+2022,ultralytics/ultralytics,https://github.com/ultralytics/ultralytics,2022-09-11T16:39:45Z,53401,10233,355,Python,Ultralytics YOLO 🚀
+2022,ChrisTitusTech/winutil,https://github.com/ChrisTitusTech/winutil,2022-04-28T02:25:19Z,47636,2509,13,PowerShell,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+2022,run-llama/llama_index,https://github.com/run-llama/llama_index,2022-11-02T04:24:54Z,47060,6847,297,Python,LlamaIndex is the leading framework for building LLM-powered agents over your data.
+2022,ggml-org/whisper.cpp,https://github.com/ggml-org/whisper.cpp,2022-09-25T18:26:37Z,46831,5218,1129,C++,Port of OpenAI's Whisper model in C/C++
+2022,oobabooga/text-generation-webui,https://github.com/oobabooga/text-generation-webui,2022-12-21T04:17:37Z,46051,5880,2663,Python,"The definitive Web UI for local AI, with powerful features and easy setup."
+2022,astral-sh/ruff,https://github.com/astral-sh/ruff,2022-08-09T17:17:44Z,45837,1780,1907,Rust,"An extremely fast Python linter and code formatter, written in Rust."
+2022,tw93/Pake,https://github.com/tw93/Pake,2022-10-14T09:32:57Z,45808,9007,1,Rust,🤱🏻 Turn any webpage into a desktop app with one command.
+2022,makeplane/plane,https://github.com/makeplane/plane,2022-11-19T12:55:01Z,45777,3555,642,TypeScript,"🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+2022,ghostty-org/ghostty,https://github.com/ghostty-org/ghostty,2022-03-29T17:38:26Z,44062,1663,196,Zig,"👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+2022,upscayl/upscayl,https://github.com/upscayl/upscayl,2022-07-30T17:19:20Z,43368,2083,67,TypeScript,"🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows."
+2022,AykutSarac/jsoncrack.com,https://github.com/AykutSarac/jsoncrack.com,2022-01-30T15:25:18Z,43346,3484,41,TypeScript,"✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs."
+2022,hiroi-sora/Umi-OCR,https://github.com/hiroi-sora/Umi-OCR,2022-03-28T04:01:46Z,42131,4158,322,Python,"OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。"
+2022,zhayujie/chatgpt-on-wechat,https://github.com/zhayujie/chatgpt-on-wechat,2022-08-07T08:33:41Z,41313,9742,350,Python,CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+2022,usebruno/bruno,https://github.com/usebruno/bruno,2022-09-27T20:51:45Z,40966,2124,1728,JavaScript,Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+2022,juspay/hyperswitch,https://github.com/juspay/hyperswitch,2022-10-17T11:18:28Z,40137,4564,1413,Rust,"An open source payments switch written in Rust to make payments fast, reliable and affordable"
+2022,twentyhq/twenty,https://github.com/twentyhq/twenty,2022-12-01T13:04:40Z,39824,5194,218,TypeScript,"Building a modern alternative to Salesforce, powered by the community."
+2022,imputnet/cobalt,https://github.com/imputnet/cobalt,2022-07-08T18:12:55Z,38762,3219,220,Svelte,best way to save what you love
+2022,agno-agi/agno,https://github.com/agno-agi/agno,2022-05-04T15:23:02Z,37944,5026,558,Python,"The programming language for agentic software. Build, run, and manage multi-agent systems at scale."
+2022,LAION-AI/Open-Assistant,https://github.com/LAION-AI/Open-Assistant,2022-12-13T05:24:17Z,37450,3304,293,Python,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so."
+2022,paperless-ngx/paperless-ngx,https://github.com/paperless-ngx/paperless-ngx,2022-02-12T21:56:52Z,36704,2334,5,Python,"A community-supported supercharged document management system: scan, index and archive all your documents"
+2022,roboflow/supervision,https://github.com/roboflow/supervision,2022-11-28T14:08:44Z,36497,3090,139,Python,We write your reusable computer vision tools. 💜
+2022,geekan/HowToLiveLonger,https://github.com/geekan/HowToLiveLonger,2022-04-16T04:15:18Z,34899,2379,40,,程序员延寿指南 | A programmer's guide to live longer
+2022,mouredev/Hello-Python,https://github.com/mouredev/Hello-Python,2022-08-03T17:14:53Z,34448,2253,24,Python,"Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..."
+2022,hyprwm/Hyprland,https://github.com/hyprwm/Hyprland,2022-03-16T19:49:13Z,33925,1574,157,C++,"Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+2022,1Panel-dev/1Panel,https://github.com/1Panel-dev/1Panel,2022-07-19T15:44:52Z,33471,2966,397,Go,"🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks."
+2022,huggingface/diffusers,https://github.com/huggingface/diffusers,2022-05-30T16:04:02Z,32814,6778,905,Python,"🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+2022,GyulyVGC/sniffnet,https://github.com/GyulyVGC/sniffnet,2022-07-31T21:55:56Z,32800,1210,55,Rust,Comfortably monitor your Internet traffic 🕵️‍♂️
+2022,The-Run-Philosophy-Organization/run,https://github.com/The-Run-Philosophy-Organization/run,2022-04-10T05:42:40Z,32149,2587,45,,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+2022,SagerNet/sing-box,https://github.com/SagerNet/sing-box,2022-06-30T13:27:22Z,30682,3587,202,Go,The universal proxy platform
+2022,nvim-lua/kickstart.nvim,https://github.com/nvim-lua/kickstart.nvim,2022-06-24T03:11:24Z,29484,44393,60,Lua,A launch point for your personal nvim configuration
+2022,t3-oss/create-t3-app,https://github.com/t3-oss/create-t3-app,2022-05-24T13:31:01Z,28544,1445,119,TypeScript,"The best way to start a full-stack, typesafe Next.js app "
+2022,gethomepage/homepage,https://github.com/gethomepage/homepage,2022-08-24T07:29:42Z,28468,1789,1,JavaScript,A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+2022,shadps4-emu/shadPS4,https://github.com/shadps4-emu/shadPS4,2022-10-24T09:48:37Z,28338,1933,117,C++,"PlayStation 4 emulator for Windows, Linux and macOS written in C++"
+2022,reflex-dev/reflex,https://github.com/reflex-dev/reflex,2022-10-25T03:08:48Z,28128,1690,278,Python,🕸️ Web apps in pure Python 🐍
+2022,fanmingming/live,https://github.com/fanmingming/live,2022-11-16T18:03:31Z,27656,4165,29,JavaScript,✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+2022,invoke-ai/InvokeAI,https://github.com/invoke-ai/InvokeAI,2022-08-17T01:04:27Z,26737,2774,432,TypeScript,"Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products."
+2022,chroma-core/chroma,https://github.com/chroma-core/chroma,2022-10-05T17:58:44Z,26188,2064,524,Rust,Open-source search and retrieval database for AI applications.
+2022,ReVanced/revanced-manager,https://github.com/ReVanced/revanced-manager,2022-03-18T19:38:55Z,25913,1028,117,Dart,💊 Application to use ReVanced on Android 
+2022,LazyVim/LazyVim,https://github.com/LazyVim/LazyVim,2022-12-30T16:31:42Z,25102,1740,59,Lua,Neovim config for the lazy
+2022,actualbudget/actual,https://github.com/actualbudget/actual,2022-04-29T02:41:34Z,25045,2171,245,TypeScript,A local-first personal finance app
+2022,Infisical/infisical,https://github.com/Infisical/infisical,2022-08-05T13:50:00Z,24981,1701,570,TypeScript,"Infisical is the open-source platform for secrets, certificates, and privileged access management."
+2022,JunkFood02/Seal,https://github.com/JunkFood02/Seal,2022-04-15T01:15:25Z,24665,1061,616,Kotlin,"🦭 Video/Audio Downloader for Android, based on yt-dlp"
+2022,ente-io/ente,https://github.com/ente-io/ente,2022-11-01T06:10:25Z,24574,1442,502,Dart,💚 End-to-end encrypted cloud for everything.
+2022,subframe7536/maple-font,https://github.com/subframe7536/maple-font,2022-04-08T15:51:22Z,23933,936,17,Python,"Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项"
+2022,maotoumao/MusicFree,https://github.com/maotoumao/MusicFree,2022-08-22T14:29:32Z,23320,1622,233,TypeScript,插件化、定制化、无广告的免费音乐播放器
+2022,terrastruct/d2,https://github.com/terrastruct/d2,2022-09-05T23:12:27Z,23078,616,490,Go,D2 is a modern diagram scripting language that turns text to diagrams.
+2022,charmbracelet/gum,https://github.com/charmbracelet/gum,2022-06-10T22:09:42Z,22764,460,142,Go,A tool for glamorous shell scripts 🎀
+2022,CodeEditApp/CodeEdit,https://github.com/CodeEditApp/CodeEdit,2022-03-10T21:28:14Z,22676,1155,196,Swift,"📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever."
+2022,Dao-AILab/flash-attention,https://github.com/Dao-AILab/flash-attention,2022-05-19T21:22:06Z,22297,2391,1059,Python,Fast and memory-efficient exact attention
+2022,guidance-ai/guidance,https://github.com/guidance-ai/guidance,2022-11-10T18:21:45Z,21313,1145,280,Jupyter Notebook,A guidance language for controlling large language models.
+2022,zijie0/HumanSystemOptimization,https://github.com/zijie0/HumanSystemOptimization,2022-05-22T13:28:46Z,21294,1493,17,,健康学习到150岁 - 人体系统调优不完全指南
+2022,DarkFlippers/unleashed-firmware,https://github.com/DarkFlippers/unleashed-firmware,2022-03-16T12:46:45Z,21066,1831,120,C,Flipper Zero Unleashed Firmware
+2022,samber/lo,https://github.com/samber/lo,2022-03-02T12:48:45Z,20983,936,219,Go,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)"
+2022,opa334/TrollStore,https://github.com/opa334/TrollStore,2022-09-02T15:17:20Z,20890,1466,48,Objective-C,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+2022,teableio/teable,https://github.com/teableio/teable,2022-11-01T07:02:49Z,20888,1205,140,TypeScript,✨ The Next Gen Airtable Alternative: No-Code Postgres
+2022,activepieces/activepieces,https://github.com/activepieces/activepieces,2022-12-03T02:52:46Z,20868,3304,368,TypeScript,AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+2022,huggingface/peft,https://github.com/huggingface/peft,2022-11-25T03:51:09Z,20651,2183,64,Python,🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+2022,android/nowinandroid,https://github.com/android/nowinandroid,2022-04-19T20:40:24Z,20605,4197,256,Kotlin,A fully functional Android app built entirely with Kotlin and Jetpack Compose
+2022,karpathy/nn-zero-to-hero,https://github.com/karpathy/nn-zero-to-hero,2022-09-08T21:23:25Z,20341,2897,50,Jupyter Notebook,Neural Networks: Zero to Hero
+2022,folke/lazy.nvim,https://github.com/folke/lazy.nvim,2022-11-20T21:36:02Z,20292,546,50,Lua,💤 A modern plugin manager for Neovim
+2022,m-bain/whisperX,https://github.com/m-bain/whisperX,2022-12-09T02:34:23Z,20216,2146,188,Python,WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+2022,leptos-rs/leptos,https://github.com/leptos-rs/leptos,2022-07-31T20:40:30Z,20132,842,126,Rust,Build fast web applications with Rust.
+2022,w-okada/voice-changer,https://github.com/w-okada/voice-changer,2022-08-22T05:08:43Z,19720,2244,408,Python,リアルタイムボイスチェンジャー Realtime Voice Changer
+2022,shadcn-ui/taxonomy,https://github.com/shadcn-ui/taxonomy,2022-10-18T18:15:20Z,19156,2700,219,TypeScript,"An open source application built using the new router, server components and everything new in Next.js 13."
+2022,Avaiga/taipy,https://github.com/Avaiga/taipy,2022-02-18T15:55:45Z,19067,1965,192,Python,Turns Data and AI algorithms into production-ready web applications in no time.
+2022,charmbracelet/vhs,https://github.com/charmbracelet/vhs,2022-07-19T14:28:36Z,18674,370,137,Go,Your CLI home video recorder 📼
+2022,lss233/kirara-ai,https://github.com/lss233/kirara-ai,2022-12-05T13:14:58Z,18327,1828,7,Python,🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | 
+2022,motion-canvas/motion-canvas,https://github.com/motion-canvas/motion-canvas,2022-08-03T16:30:14Z,18171,711,171,TypeScript,Visualize Your Ideas With Code
+2022,resend/react-email,https://github.com/resend/react-email,2022-09-19T19:24:54Z,18070,917,61,TypeScript,💌 Build and send emails using React
+2022,chidiwilliams/buzz,https://github.com/chidiwilliams/buzz,2022-09-24T13:43:23Z,17899,1313,20,Python,Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+2022,sczhou/CodeFormer,https://github.com/sczhou/CodeFormer,2022-06-21T02:48:14Z,17807,3696,281,Python,[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+2022,apple/ml-stable-diffusion,https://github.com/apple/ml-stable-diffusion,2022-11-16T00:48:18Z,17797,1048,186,Python,Stable Diffusion with Core ML on Apple Silicon
+2022,bluesky-social/social-app,https://github.com/bluesky-social/social-app,2022-06-07T22:50:27Z,17708,2616,2191,TypeScript,"The Bluesky Social application for Web, iOS, and Android"
+2022,InterviewReady/system-design-resources,https://github.com/InterviewReady/system-design-resources,2022-05-19T05:37:49Z,17666,2314,1,,These are the best resources for System Design on the Internet
+2022,xiaolincoder/CS-Base,https://github.com/xiaolincoder/CS-Base,2022-03-20T05:24:11Z,17517,2106,108,,图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
+2022,wavetermdev/waveterm,https://github.com/wavetermdev/waveterm,2022-06-08T00:26:00Z,17418,774,468,Go,"An open-source, cross-platform terminal for seamless workflows"
+2022,openai/tiktoken,https://github.com/openai/tiktoken,2022-12-01T23:22:11Z,17317,1381,84,Python,tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+2022,NVlabs/instant-ngp,https://github.com/NVlabs/instant-ngp,2022-01-05T17:11:30Z,17276,2051,502,Cuda,Instant neural graphics primitives: lightning fast NeRF and more
+2022,xiaye13579/BBLL,https://github.com/xiaye13579/BBLL,2022-12-12T01:49:07Z,17275,533,1245,,一个第三方哔哩哔哩客户端，A third-party bilibili client。
+2022,elysiajs/elysia,https://github.com/elysiajs/elysia,2022-12-04T12:53:30Z,17275,471,234,TypeScript,Ergonomic Framework for Humans
+2022,linkwarden/linkwarden,https://github.com/linkwarden/linkwarden,2022-04-09T07:53:01Z,17263,682,562,TypeScript,"⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place."
+2022,AccumulateMore/CV,https://github.com/AccumulateMore/CV,2022-03-31T13:19:32Z,17212,1986,19,Jupyter Notebook,✔（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】
+2022,immersive-translate/immersive-translate,https://github.com/immersive-translate/immersive-translate,2022-12-07T12:35:35Z,16957,977,290,,"沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension "
+2022,AstrBotDevs/AstrBot,https://github.com/AstrBotDevs/AstrBot,2022-12-08T13:27:46Z,16754,1313,450,Python,"Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+2022,Grasscutters/Grasscutter,https://github.com/Grasscutters/Grasscutter,2022-04-17T12:43:46Z,16750,4386,148,Java,A server software reimplementation for a certain anime game.
+2022,NVIDIA/open-gpu-kernel-modules,https://github.com/NVIDIA/open-gpu-kernel-modules,2022-05-02T22:00:04Z,16718,1585,295,C,NVIDIA Linux open GPU kernel module source
+2023,Significant-Gravitas/AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,2023-03-16T09:21:07Z,181871,46220,341,Python,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+2023,ollama/ollama,https://github.com/ollama/ollama,2023-06-26T19:39:32Z,162901,14610,2436,Go,"Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+2023,langflow-ai/langflow,https://github.com/langflow-ai/langflow,2023-02-08T22:28:03Z,144880,8463,1024,Python,Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+2023,langgenius/dify,https://github.com/langgenius/dify,2023-04-12T07:40:24Z,129793,20200,743,TypeScript,Production-ready platform for agentic workflow development.
+2023,open-webui/open-webui,https://github.com/open-webui/open-webui,2023-10-06T22:08:27Z,124298,17565,275,Python,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+2023,shadcn-ui/ui,https://github.com/shadcn-ui/ui,2023-01-04T12:43:27Z,106855,7914,1758,TypeScript,"A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+2023,microsoft/generative-ai-for-beginners,https://github.com/microsoft/generative-ai-for-beginners,2023-06-19T16:28:59Z,106567,57096,9,Jupyter Notebook,"21 Lessons, Get Started Building with Generative AI "
+2023,Comfy-Org/ComfyUI,https://github.com/Comfy-Org/ComfyUI,2023-01-17T03:15:56Z,103552,11812,3717,Python,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+2023,clash-verge-rev/clash-verge-rev,https://github.com/clash-verge-rev/clash-verge-rev,2023-11-21T18:24:03Z,97640,7139,148,TypeScript,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience"
+2023,ggml-org/llama.cpp,https://github.com/ggml-org/llama.cpp,2023-03-10T18:58:00Z,95323,14970,1127,C++,LLM inference in C/C++
+2023,ChatGPTNextWeb/NextChat,https://github.com/ChatGPTNextWeb/NextChat,2023-03-10T18:27:54Z,87310,60346,790,TypeScript,✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+2023,ByteByteGoHq/system-design-101,https://github.com/ByteByteGoHq/system-design-101,2023-09-18T20:52:03Z,79655,8727,57,,Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+2023,hacksider/Deep-Live-Cam,https://github.com/hacksider/Deep-Live-Cam,2023-09-24T13:19:31Z,79553,11591,111,Python,real time face swap and one-click video deepfake with only a single image
+2023,astral-sh/uv,https://github.com/astral-sh/uv,2023-10-02T20:24:11Z,79433,2574,2687,Rust,"An extremely fast Python package and project manager, written in Rust."
+2023,nomic-ai/gpt4all,https://github.com/nomic-ai/gpt4all,2023-03-27T18:49:32Z,77134,8316,752,C++,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+2023,unionlabs/union,https://github.com/unionlabs/union,2023-05-16T22:33:39Z,74319,3844,185,Rust,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance."
+2023,Stirling-Tools/Stirling-PDF,https://github.com/Stirling-Tools/Stirling-PDF,2023-01-27T18:22:42Z,74314,6321,422,TypeScript,#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+2023,infiniflow/ragflow,https://github.com/infiniflow/ragflow,2023-12-12T06:13:13Z,73405,8143,2988,Python,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+2023,twitter/the-algorithm,https://github.com/twitter/the-algorithm,2023-03-27T14:57:57Z,72744,13267,507,Scala,Source code for the X Recommendation Algorithm
+2023,lobehub/lobehub,https://github.com/lobehub/lobehub,2023-05-21T07:19:12Z,72374,14633,804,TypeScript,"The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
+2023,abi/screenshot-to-code,https://github.com/abi/screenshot-to-code,2023-11-14T17:53:32Z,71706,8851,137,TypeScript,Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+2023,vllm-project/vllm,https://github.com/vllm-project/vllm,2023-02-09T11:23:20Z,70653,13535,3423,Python,A high-throughput and memory-efficient inference and serving engine for LLMs
+2023,binary-husky/gpt_academic,https://github.com/binary-husky/gpt_academic,2023-03-20T09:05:13Z,70107,8396,298,Python,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。"
+2023,base/node,https://github.com/base/node,2023-02-01T13:55:02Z,68741,3215,22,Go,Everything required to run your own Base node
+2023,hiyouga/LlamaFactory,https://github.com/hiyouga/LlamaFactory,2023-05-28T10:09:12Z,67367,8196,906,Python,Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+2023,xtekky/gpt4free,https://github.com/xtekky/gpt4free,2023-03-29T17:00:43Z,65718,13665,5,Python,The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+2023,FoundationAgents/MetaGPT,https://github.com/FoundationAgents/MetaGPT,2023-06-30T09:04:55Z,64294,8078,80,Python,"🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+2023,openinterpreter/open-interpreter,https://github.com/openinterpreter/open-interpreter,2023-07-14T07:10:44Z,62229,5348,295,Python,A natural language interface for computers
+2023,meta-llama/llama,https://github.com/meta-llama/llama,2023-02-14T09:29:12Z,59157,9824,515,Python,Inference code for Llama models
+2023,zylon-ai/private-gpt,https://github.com/zylon-ai/private-gpt,2023-05-02T09:15:31Z,57109,7610,291,Python,"Interact with your documents using the power of GPT, 100% privately, no data leaks"
+2023,pathwaycom/llm-app,https://github.com/pathwaycom/llm-app,2023-07-19T08:43:37Z,56327,1335,8,Jupyter Notebook,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."
+2023,AntonOsika/gpt-engineer,https://github.com/AntonOsika/gpt-engineer,2023-04-29T12:52:15Z,55204,7323,65,Python,CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+2023,Mintplex-Labs/anything-llm,https://github.com/Mintplex-Labs/anything-llm,2023-06-04T02:29:14Z,54719,5882,273,JavaScript,"The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
+2023,microsoft/autogen,https://github.com/microsoft/autogen,2023-08-18T11:43:45Z,54636,8229,595,Python,A programming framework for agentic AI
+2023,FlowiseAI/Flowise,https://github.com/FlowiseAI/Flowise,2023-03-31T12:23:09Z,49185,23726,798,TypeScript,"Build AI Agents, Visually"
+2023,lllyasviel/Fooocus,https://github.com/lllyasviel/Fooocus,2023-08-09T18:43:40Z,47720,7787,277,Python,Focus on prompting and generating
+2023,mem0ai/mem0,https://github.com/mem0ai/mem0,2023-06-20T08:58:36Z,47585,5276,748,Python,Universal memory layer for AI Agents
+2023,crewAIInc/crewAI,https://github.com/crewAIInc/crewAI,2023-10-27T03:26:59Z,44291,5942,289,Python,"Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+2023,NanmiCoder/MediaCrawler,https://github.com/NanmiCoder/MediaCrawler,2023-06-09T12:14:34Z,44023,9674,131,Python,小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+2023,mudler/LocalAI,https://github.com/mudler/LocalAI,2023-03-18T22:58:02Z,42895,3562,165,Go,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference"
+2023,zai-org/ChatGLM-6B,https://github.com/zai-org/ChatGLM-6B,2023-03-13T12:00:18Z,41229,5208,603,Python,ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+2023,Aider-AI/aider,https://github.com/Aider-AI/aider,2023-05-09T18:57:49Z,40730,3898,1385,Python,aider is AI pair programming in your terminal
+2023,janhq/jan,https://github.com/janhq/jan,2023-08-17T02:17:10Z,40481,2519,229,TypeScript,Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+2023,lm-sys/FastChat,https://github.com/lm-sys/FastChat,2023-03-19T00:18:02Z,39409,4777,980,Python,"An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena."
+2023,suno-ai/bark,https://github.com/suno-ai/bark,2023-04-07T19:34:48Z,38981,4677,264,Jupyter Notebook,🔊 Text-Prompted Generative Audio Model
+2023,QuivrHQ/quivr,https://github.com/QuivrHQ/quivr,2023-05-12T23:53:30Z,38931,3715,20,Python,"Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. "
+2023,chatboxai/chatbox,https://github.com/chatboxai/chatbox,2023-03-06T12:22:15Z,38536,3899,1044,TypeScript,Powerful AI Client
+2023,chatchat-space/Langchain-Chatchat,https://github.com/chatchat-space/Langchain-Chatchat,2023-03-31T12:12:45Z,37298,6140,24,Python,"Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain "
+2023,drawdb-io/drawdb,https://github.com/drawdb-io/drawdb,2023-07-16T17:09:20Z,36633,2853,180,JavaScript,"Free, simple, and intuitive online database diagram editor and SQL generator."
+2023,BerriAI/litellm,https://github.com/BerriAI/litellm,2023-07-27T00:09:52Z,36306,5870,1454,Python,"Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]"
+2023,chatanywhere/GPT_API_free,https://github.com/chatanywhere/GPT_API_free,2023-04-23T12:42:08Z,36089,2545,58,Python,Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+2023,gkd-kit/gkd,https://github.com/gkd-kit/gkd,2023-07-04T03:59:15Z,36066,1754,11,Kotlin,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules"
+2023,XingangPan/DragGAN,https://github.com/XingangPan/DragGAN,2023-05-18T10:08:02Z,35971,3441,154,Python,Official Code for DragGAN (SIGGRAPH 2023)
+2023,myshell-ai/OpenVoice,https://github.com/myshell-ai/OpenVoice,2023-11-29T12:17:01Z,35951,4018,298,Python,Instant voice cloning by MIT and MyShell. Audio foundation model.
+2023,opentofu/manifesto,https://github.com/opentofu/manifesto,2023-08-13T16:17:24Z,35911,1052,20,HTML,The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+2023,RVC-Project/Retrieval-based-Voice-Conversion-WebUI,https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI,2023-03-27T09:59:10Z,34471,4898,706,Python,Easily train a good VC model with voice data <= 10 mins!
+2023,chenfei-wu/TaskMatrix,https://github.com/chenfei-wu/TaskMatrix,2023-03-02T09:04:28Z,34258,3255,256,Python,
+2023,danny-avila/LibreChat,https://github.com/danny-avila/LibreChat,2023-02-12T01:06:52Z,33938,6832,420,TypeScript,"Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active."
+2023,Pythagora-io/gpt-pilot,https://github.com/Pythagora-io/gpt-pilot,2023-08-16T11:56:07Z,33790,3502,239,Python,The first real AI developer
+2023,lllyasviel/ControlNet,https://github.com/lllyasviel/ControlNet,2023-02-01T02:43:30Z,33647,2999,459,Python,Let us control diffusion models!
+2023,anthropics/claude-cookbooks,https://github.com/anthropics/claude-cookbooks,2023-08-15T20:23:51Z,33051,3413,50,Jupyter Notebook,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+2023,mckaywrigley/chatbot-ui,https://github.com/mckaywrigley/chatbot-ui,2023-03-11T14:53:14Z,33035,9469,234,TypeScript,AI chat for any model.
+2023,TabbyML/tabby,https://github.com/TabbyML/tabby,2023-03-16T09:18:01Z,32894,1683,291,Rust,Self-hosted AI coding assistant
+2023,sxyazi/yazi,https://github.com/sxyazi/yazi,2023-07-08T11:45:55Z,32853,711,60,Rust,"💥 Blazing fast terminal file manager written in Rust, based on async I/O."
+2023,stanfordnlp/dspy,https://github.com/stanfordnlp/dspy,2023-01-09T21:01:51Z,32273,2630,466,Python,DSPy: The framework for programming—not prompting—language models
+2023,lizongying/my-tv,https://github.com/lizongying/my-tv,2023-12-04T12:18:39Z,32255,3623,147,C,我的电视 电视直播软件，安装即可使用
+2023,Lissy93/web-check,https://github.com/Lissy93/web-check,2023-06-25T14:32:11Z,32052,2520,91,TypeScript,🕵️‍♂️ All-in-one OSINT tool for analysing any website
+2023,linexjlin/GPTs,https://github.com/linexjlin/GPTs,2023-11-11T03:24:16Z,31953,4426,12,,leaked prompts of GPTs
+2023,datalab-to/marker,https://github.com/datalab-to/marker,2023-10-30T20:14:08Z,31742,2168,375,Python,Convert PDF to markdown + JSON quickly with high accuracy
+2023,chen08209/FlClash,https://github.com/chen08209/FlClash,2023-08-15T07:47:22Z,31726,1928,635,Dart,"A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free."
+2023,conductor-oss/conductor,https://github.com/conductor-oss/conductor,2023-12-08T06:06:09Z,31501,810,121,Java,Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
+2023,continuedev/continue,https://github.com/continuedev/continue,2023-05-24T03:39:39Z,31444,4169,877,TypeScript,"⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI"
+2023,OpenBMB/ChatDev,https://github.com/OpenBMB/ChatDev,2023-08-28T02:18:13Z,31023,3822,37,Python,ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+2023,MHSanaei/3x-ui,https://github.com/MHSanaei/3x-ui,2023-02-09T19:16:57Z,30525,5950,377,HTML,"Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun) "
+2023,tatsu-lab/stanford_alpaca,https://github.com/tatsu-lab/stanford_alpaca,2023-03-10T23:33:09Z,30266,4007,189,Python,"Code and documentation to train Stanford's Alpaca models, and generate the data."
+2023,songquanpeng/one-api,https://github.com/songquanpeng/one-api,2023-04-22T12:39:24Z,29714,5719,979,JavaScript,"LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI."
+2023,CopilotKit/CopilotKit,https://github.com/CopilotKit/CopilotKit,2023-06-19T04:08:31Z,28867,3740,568,TypeScript,The Frontend for Agents & Generative UI. React + Angular
+2023,datawhalechina/self-llm,https://github.com/datawhalechina/self-llm,2023-11-16T02:31:29Z,28274,2820,152,Jupyter Notebook,《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+2023,opentofu/opentofu,https://github.com/opentofu/opentofu,2023-08-16T20:01:36Z,27913,1158,337,Go,OpenTofu lets you declaratively manage your cloud infrastructure.
+2023,microsoft/semantic-kernel,https://github.com/microsoft/semantic-kernel,2023-02-27T17:39:42Z,27255,4464,528,C#,Integrate cutting-edge LLM technology quickly and easily into your apps
+2023,labring/FastGPT,https://github.com/labring/FastGPT,2023-02-23T16:53:25Z,27134,6926,160,TypeScript,"FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration."
+2023,Stability-AI/generative-models,https://github.com/Stability-AI/generative-models,2023-06-22T00:36:35Z,26923,3045,336,Python,Generative Models by Stability AI
+2023,gitroomhq/postiz-app,https://github.com/gitroomhq/postiz-app,2023-07-08T17:24:22Z,26689,4603,167,TypeScript,"📨 The ultimate social media scheduling tool, with a bunch of AI  🤖"
+2023,Hannibal046/Awesome-LLM,https://github.com/Hannibal046/Awesome-LLM,2023-02-17T14:12:21Z,26272,2297,97,,Awesome-LLM: a curated list of Large Language Model
+2023,cloudflare/pingora,https://github.com/cloudflare/pingora,2023-05-05T20:03:08Z,26120,1582,237,Rust,"A library for building fast, reliable and evolvable network services."
+2023,jordanbaird/Ice,https://github.com/jordanbaird/Ice,2023-08-04T22:51:56Z,26052,581,346,Swift,Powerful menu bar manager for macOS
+2023,hiddify/hiddify-app,https://github.com/hiddify/hiddify-app,2023-05-21T11:30:14Z,25989,2259,10,Dart,"Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free."
+2023,e2b-dev/awesome-ai-agents,https://github.com/e2b-dev/awesome-ai-agents,2023-06-19T00:20:06Z,25893,2236,167,,A list of AI autonomous agents
+2023,Vision-CAIR/MiniGPT-4,https://github.com/Vision-CAIR/MiniGPT-4,2023-04-15T22:17:09Z,25757,2920,376,Python,"Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)"
+2023,modular/modular,https://github.com/modular/modular,2023-04-28T22:17:24Z,25596,2773,888,Mojo,The Modular Platform (includes MAX & Mojo)
+2023,assafelovic/gpt-researcher,https://github.com/assafelovic/gpt-researcher,2023-05-12T10:33:54Z,25356,3367,183,Python,An autonomous agent that conducts deep research on any data using any LLM providers.
+2023,CodePhiliaX/Chat2DB,https://github.com/CodePhiliaX/Chat2DB,2023-06-20T14:05:26Z,25154,2738,510,Java,"AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+2023,fishaudio/fish-speech,https://github.com/fishaudio/fish-speech,2023-10-10T03:16:51Z,24919,2074,22,Python,SOTA Open Source TTS
+2023,nextai-translator/nextai-translator,https://github.com/nextai-translator/nextai-translator,2023-03-04T05:21:09Z,24833,1832,513,TypeScript,基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+2023,langchain-ai/langgraph,https://github.com/langchain-ai/langgraph,2023-08-09T18:33:12Z,24831,4337,301,Python,Build resilient language agents as graphs.
+2023,microsoft/JARVIS,https://github.com/microsoft/JARVIS,2023-03-30T02:57:12Z,24550,2064,430,Python,"JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf"
+2023,haotian-liu/LLaVA,https://github.com/haotian-liu/LLaVA,2023-04-17T16:13:11Z,24462,2733,1136,Python,[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+2023,ml-explore/mlx,https://github.com/ml-explore/mlx,2023-11-28T23:33:45Z,23977,1518,169,C++,MLX: An array framework for Apple silicon
+2023,mozilla-ai/llamafile,https://github.com/mozilla-ai/llamafile,2023-09-10T21:12:32Z,23724,1264,219,C,Distribute and run LLMs with a single file.
+2023,biomejs/biome,https://github.com/biomejs/biome,2023-07-27T20:30:22Z,23688,862,488,Rust,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
+2024,deepseek-ai/DeepSeek-V3,https://github.com/deepseek-ai/DeepSeek-V3,2024-12-26T09:52:40Z,101619,16515,94,Python,
+2024,Shubhamsaboo/awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps,2024-04-29T05:30:25Z,95994,13927,5,Python,"Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+2024,microsoft/markitdown,https://github.com/microsoft/markitdown,2024-11-13T19:56:40Z,87263,5082,430,Python,Python tool for converting files and office documents to Markdown.
+2024,firecrawl/firecrawl,https://github.com/firecrawl/firecrawl,2024-04-15T21:02:29Z,83778,6085,185,TypeScript,🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+2024,punkpeye/awesome-mcp-servers,https://github.com/punkpeye/awesome-mcp-servers,2024-11-30T04:49:10Z,81066,7322,316,,A collection of MCP servers.
+2024,modelcontextprotocol/servers,https://github.com/modelcontextprotocol/servers,2024-11-19T01:10:17Z,78959,9560,336,TypeScript,Model Context Protocol Servers
+2024,browser-use/browser-use,https://github.com/browser-use/browser-use,2024-10-31T16:00:56Z,78544,9299,246,Python,🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+2024,OpenHands/OpenHands,https://github.com/OpenHands/OpenHands,2024-03-13T03:33:31Z,67946,8462,341,Python,🙌 OpenHands: AI-Driven Development
+2024,unclecode/crawl4ai,https://github.com/unclecode/crawl4ai,2024-05-09T09:48:50Z,60395,6160,257,Python,"🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+2024,LadybirdBrowser/ladybird,https://github.com/LadybirdBrowser/ladybird,2024-05-30T09:18:10Z,58611,2672,643,C++,Truly independent web browser
+2024,daytonaio/daytona,https://github.com/daytonaio/daytona,2024-02-06T08:21:20Z,58361,5037,302,TypeScript,Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+2024,cline/cline,https://github.com/cline/cline,2024-07-06T07:28:10Z,58146,5792,718,TypeScript,"Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+2024,RVC-Boss/GPT-SoVITS,https://github.com/RVC-Boss/GPT-SoVITS,2024-01-14T18:05:21Z,55091,6019,850,Python,1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+2024,opendatalab/MinerU,https://github.com/opendatalab/MinerU,2024-02-29T08:52:34Z,54496,4521,183,Python,Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+2024,docling-project/docling,https://github.com/docling-project/docling,2024-07-09T07:50:26Z,53443,3629,841,Python,Get your documents ready for gen AI
+2024,microsoft/ai-agents-for-beginners,https://github.com/microsoft/ai-agents-for-beginners,2024-11-28T10:42:52Z,50779,17795,9,Jupyter Notebook,12 Lessons to Get Started Building AI Agents
+2024,dockur/windows,https://github.com/dockur/windows,2024-01-14T13:09:40Z,50007,4040,94,Shell,Windows inside a Docker container.
+2024,harry0703/MoneyPrinterTurbo,https://github.com/harry0703/MoneyPrinterTurbo,2024-03-11T02:57:34Z,49518,7019,219,Python,利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+2024,virattt/ai-hedge-fund,https://github.com/virattt/ai-hedge-fund,2024-11-29T16:30:01Z,45801,7994,52,Python,An AI Hedge Fund Team
+2024,exo-explore/exo,https://github.com/exo-explore/exo,2024-06-24T18:36:22Z,41591,2830,152,Python,Run frontier AI locally.
+2024,zen-browser/desktop,https://github.com/zen-browser/desktop,2024-03-28T00:05:55Z,40169,1335,530,JavaScript,Welcome to a calmer internet
+2024,CherryHQ/cherry-studio,https://github.com/CherryHQ/cherry-studio,2024-05-24T01:56:26Z,39931,3673,629,TypeScript,"AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
+2024,jingyaogong/minimind,https://github.com/jingyaogong/minimind,2024-07-27T04:34:12Z,39643,4784,36,Python,🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+2024,HeyPuter/puter,https://github.com/HeyPuter/puter,2024-03-03T01:44:32Z,39515,3496,192,JavaScript,"🌐 The Internet Computer! Free, Open-Source, and Self-Hostable."
+2024,danielmiessler/Fabric,https://github.com/danielmiessler/Fabric,2024-01-03T23:18:31Z,39161,3907,22,Go,Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+2024,2noise/ChatTTS,https://github.com/2noise/ChatTTS,2024-05-27T18:26:49Z,38715,4207,61,Python,A generative speech model for daily dialogue.
+2024,PatrickJS/awesome-cursorrules,https://github.com/PatrickJS/awesome-cursorrules,2024-09-16T15:38:38Z,37910,3197,63,MDX,📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+2024,RSSNext/Folo,https://github.com/RSSNext/Folo,2024-04-08T03:23:35Z,37222,1958,386,TypeScript,🧡 Folo is the AI Reader
+2024,inkonchain/docs,https://github.com/inkonchain/docs,2024-05-07T16:49:36Z,36852,449,45,MDX,Ink Documentation
+2024,inkonchain/node,https://github.com/inkonchain/node,2024-05-13T23:20:40Z,36803,629,18,Shell,How to run an Ink Node
+2024,DavidHDev/react-bits,https://github.com/DavidHDev/react-bits,2024-08-06T06:54:54Z,35919,1586,6,JavaScript,"An open source collection of animated, interactive & fully customizable React components for building memorable websites."
+2024,666ghj/BettaFish,https://github.com/666ghj/BettaFish,2024-07-01T13:11:38Z,35610,6814,29,Python,微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+2024,deepseek-ai/awesome-deepseek-integration,https://github.com/deepseek-ai/awesome-deepseek-integration,2024-01-11T02:43:17Z,35444,3955,158,,Integrate the DeepSeek API into popular softwares
+2024,glanceapp/glance,https://github.com/glanceapp/glance,2024-04-27T18:55:38Z,31993,1202,287,Go,A self-hosted dashboard that puts all your feeds in one place
+2024,shardeum/shardeum,https://github.com/shardeum/shardeum,2024-04-16T22:37:25Z,31587,702,88,TypeScript,Shardeum is an EVM based autoscaling blockchain
+2024,microsoft/graphrag,https://github.com/microsoft/graphrag,2024-03-27T17:57:52Z,30986,3265,57,Python,A modular graph-based Retrieval-Augmented Generation (RAG) system
+2024,block/goose,https://github.com/block/goose,2024-08-23T19:03:36Z,30643,2775,305,Rust,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+2024,Dokploy/dokploy,https://github.com/Dokploy/dokploy,2024-04-19T07:49:30Z,30617,2092,490,TypeScript,"Open Source Alternative to Vercel, Netlify and Heroku."
+2024,TauricResearch/TradingAgents,https://github.com/TauricResearch/TradingAgents,2024-12-28T03:31:08Z,30175,5784,235,Python,TradingAgents: Multi-Agents LLM Financial Trading Framework
+2024,patchy631/ai-engineering-hub,https://github.com/patchy631/ai-engineering-hub,2024-10-21T10:43:24Z,30050,4848,123,Jupyter Notebook,"In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+2024,feder-cr/Jobs_Applier_AI_Agent_AIHawk,https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk,2024-08-04T12:15:06Z,29352,4466,27,Python,"AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way."
+2024,meta-llama/llama3,https://github.com/meta-llama/llama3,2024-03-15T17:57:00Z,29252,3513,217,Python,The official Meta Llama 3 GitHub site
+2024,ItzCrazyKns/Perplexica,https://github.com/ItzCrazyKns/Perplexica,2024-04-09T10:51:32Z,28976,3074,228,TypeScript,Perplexica is an AI-powered answering engine.
+2024,karpathy/llm.c,https://github.com/karpathy/llm.c,2024-04-08T16:58:11Z,28928,3392,216,Cuda,"LLM training in simple, raw C/CUDA"
+2024,hpcaitech/Open-Sora,https://github.com/hpcaitech/Open-Sora,2024-02-20T03:01:34Z,28541,2892,10,Python,Open-Sora: Democratizing Efficient Video Production for All
+2024,microsoft/BitNet,https://github.com/microsoft/BitNet,2024-08-05T09:07:38Z,28509,2334,207,Python,Official inference framework for 1-bit LLMs
+2024,HKUDS/LightRAG,https://github.com/HKUDS/LightRAG,2024-10-02T11:57:54Z,28444,4065,187,Python,"[EMNLP2025] ""LightRAG: Simple and Fast Retrieval-Augmented Generation"""
+2024,voideditor/void,https://github.com/voideditor/void,2024-09-11T02:37:00Z,28219,2316,311,TypeScript,
+2024,stanford-oval/storm,https://github.com/stanford-oval/storm,2024-03-24T16:23:39Z,27913,2533,91,Python,An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+2024,ComposioHQ/composio,https://github.com/ComposioHQ/composio,2024-02-23T13:58:27Z,26850,4428,45,TypeScript,"Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action."
+2024,QwenLM/Qwen3,https://github.com/QwenLM/Qwen3,2024-02-05T05:45:08Z,26627,1886,45,Python,"Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud."
+2024,better-auth/better-auth,https://github.com/better-auth/better-auth,2024-05-19T21:40:04Z,26292,2269,650,TypeScript,The most comprehensive authentication framework for TypeScript
+2024,community-scripts/ProxmoxVE,https://github.com/community-scripts/ProxmoxVE,2024-11-01T14:06:43Z,26262,2440,18,Shell,Proxmox VE Helper-Scripts (Community Edition) 
+2024,yuaotian/go-cursor-help,https://github.com/yuaotian/go-cursor-help,2024-12-09T07:07:09Z,25975,3154,5,Shell,解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+2024,datawhalechina/happy-llm,https://github.com/datawhalechina/happy-llm,2024-05-28T03:22:50Z,25968,2423,47,Jupyter Notebook,📚 从零开始的大语言模型原理与实践教程
+2024,Max-Eee/NeoPass,https://github.com/Max-Eee/NeoPass,2024-11-15T07:41:53Z,25551,93,1,JavaScript,Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
+2024,huggingface/smolagents,https://github.com/huggingface/smolagents,2024-12-05T11:28:04Z,25501,2300,375,Python,🤗 smolagents: a barebones library for agents that think in code.
+2024,kavishdevar/librepods,https://github.com/kavishdevar/librepods,2024-09-26T19:31:11Z,25428,1359,131,Kotlin,AirPods liberated from Apple's ecosystem.
+2024,NirDiamant/RAG_Techniques,https://github.com/NirDiamant/RAG_Techniques,2024-07-13T16:08:36Z,25378,2977,20,Jupyter Notebook,This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+2024,black-forest-labs/flux,https://github.com/black-forest-labs/flux,2024-08-01T09:04:19Z,25218,1853,217,Python,Official inference repo for FLUX.1 models
+2024,Cinnamon/kotaemon,https://github.com/Cinnamon/kotaemon,2024-03-25T08:16:42Z,25133,2093,226,Python,An open-source RAG-based tool for chatting with your documents.
+2024,valkey-io/valkey,https://github.com/valkey-io/valkey,2024-03-22T00:42:17Z,24864,1030,605,C,A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+2024,aishwaryanr/awesome-generative-ai-guide,https://github.com/aishwaryanr/awesome-generative-ai-guide,2024-02-06T18:14:14Z,24737,5272,10,HTML,"A one stop repository for generative AI research updates, interview resources, notebooks and much more!"
+2024,onlook-dev/onlook,https://github.com/onlook-dev/onlook,2024-06-25T19:16:02Z,24714,1839,350,TypeScript,"The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI"
+2024,microsoft/OmniParser,https://github.com/microsoft/OmniParser,2024-09-20T05:18:18Z,24370,2119,230,Jupyter Notebook,A simple screen parsing tool towards pure vision based GUI agent
+2024,ashishpatel26/500-AI-Agents-Projects,https://github.com/ashishpatel26/500-AI-Agents-Projects,2024-12-20T13:37:15Z,24333,4204,40,,"The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more."
+2024,microsoft/typescript-go,https://github.com/microsoft/typescript-go,2024-09-19T20:25:12Z,24139,830,293,Go,Staging repo for development of native port of TypeScript
+2024,78/xiaozhi-esp32,https://github.com/78/xiaozhi-esp32,2024-08-31T10:08:16Z,24079,5140,522,C++,An MCP-based chatbot | 一个基于MCP的聊天机器人
+2024,OpenBMB/MiniCPM-o,https://github.com/OpenBMB/MiniCPM-o,2024-01-29T05:30:33Z,23840,1835,84,Python,"A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone"
+2024,sgl-project/sglang,https://github.com/sgl-project/sglang,2024-01-08T04:15:52Z,23603,4484,2195,Python,SGLang is a high-performance serving framework for large language models and multimodal models.
+2024,Gar-b-age/CookLikeHOC,https://github.com/Gar-b-age/CookLikeHOC,2024-04-10T15:01:12Z,23115,2327,134,JavaScript,🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+2024,PrefectHQ/fastmcp,https://github.com/PrefectHQ/fastmcp,2024-11-30T01:47:40Z,22943,1752,238,Python,"🚀 The fast, Pythonic way to build MCP servers and clients."
+2024,getzep/graphiti,https://github.com/getzep/graphiti,2024-08-08T22:08:30Z,22911,2257,262,Python,Build Real-Time Knowledge Graphs for AI Agents
+2024,Flowseal/zapret-discord-youtube,https://github.com/Flowseal/zapret-discord-youtube,2024-10-08T20:02:28Z,22782,1878,1834,Batchfile,
+2024,ScrapeGraphAI/Scrapegraph-ai,https://github.com/ScrapeGraphAI/Scrapegraph-ai,2024-01-27T16:54:38Z,22710,1976,2,Python,Python scraper based on AI
+2024,Guovin/iptv-api,https://github.com/Guovin/iptv-api,2024-02-04T11:22:59Z,22557,7158,1,Python,⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+2024,RooCodeInc/Roo-Code,https://github.com/RooCodeInc/Roo-Code,2024-10-31T17:56:50Z,22269,2985,550,TypeScript,Roo Code gives you a whole dev team of AI agents in your code editor.
+2024,wandb/openui,https://github.com/wandb/openui,2024-03-17T23:46:16Z,22048,2044,84,TypeScript,"OpenUI let's you describe UI using your imagination, then see it rendered live."
+2024,yamadashy/repomix,https://github.com/yamadashy/repomix,2024-07-13T07:11:32Z,21929,1015,142,TypeScript,"📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more."
+2024,modelcontextprotocol/python-sdk,https://github.com/modelcontextprotocol/python-sdk,2024-09-24T21:01:35Z,21713,3094,370,Python,The official Python SDK for Model Context Protocol servers and clients
+2024,XiaoMi/ha_xiaomi_home,https://github.com/XiaoMi/ha_xiaomi_home,2024-09-09T02:14:48Z,21430,1130,77,Python,Xiaomi Home Integration for Home Assistant
+2024,chartdb/chartdb,https://github.com/chartdb/chartdb,2024-08-05T07:19:19Z,21275,1265,133,TypeScript,Database diagrams editor that allows you to visualize and design your DB with a single query.
+2024,mastra-ai/mastra,https://github.com/mastra-ai/mastra,2024-08-06T20:44:31Z,21188,1567,441,TypeScript,"From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack."
+2024,Predidit/Kazumi,https://github.com/Predidit/Kazumi,2024-05-09T01:56:22Z,21181,604,371,Dart,基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+2024,browserbase/stagehand,https://github.com/browserbase/stagehand,2024-03-24T19:19:44Z,21171,1381,153,TypeScript,The AI Browser Automation Framework
+2024,openai/swarm,https://github.com/openai/swarm,2024-02-22T20:53:54Z,20972,2232,17,Python,"Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team."
+2024,mihomo-party-org/clash-party,https://github.com/mihomo-party-org/clash-party,2024-08-02T00:38:23Z,20945,1693,265,TypeScript,:electron: Another Mihomo GUI. 
+2024,aidenybai/react-scan,https://github.com/aidenybai/react-scan,2024-09-02T21:52:12Z,20626,346,89,TypeScript,Scan for React performance issues and eliminate slow renders in your app
+2024,Skyvern-AI/skyvern,https://github.com/Skyvern-AI/skyvern,2024-02-28T15:45:19Z,20461,1812,148,Python,Automate browser based workflows with AI
+2024,Lordog/dive-into-llms,https://github.com/Lordog/dive-into-llms,2024-04-08T13:11:40Z,20028,2380,3,Jupyter Notebook,《动手学大模型Dive into LLMs》系列编程实践教程
+2024,NirDiamant/GenAI_Agents,https://github.com/NirDiamant/GenAI_Agents,2024-09-09T20:10:19Z,20026,3332,20,Jupyter Notebook,"This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems."
+2024,lfnovo/open-notebook,https://github.com/lfnovo/open-notebook,2024-10-21T17:58:46Z,19740,2210,96,TypeScript,An Open Source implementation of Notebook LM with more flexibility and features
+2024,FunAudioLLM/CosyVoice,https://github.com/FunAudioLLM/CosyVoice,2024-07-03T02:59:22Z,19633,2215,871,Python,"Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability."
+2024,stitionai/devika,https://github.com/stitionai/devika,2024-03-21T03:03:21Z,19482,2595,187,Python,Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
+2024,henrygd/beszel,https://github.com/henrygd/beszel,2024-07-07T21:36:28Z,19458,630,206,Go,"Lightweight server monitoring hub with historical data, docker stats, and alerts."
+2024,kortix-ai/suna,https://github.com/kortix-ai/suna,2024-10-05T17:01:01Z,19368,3357,11,TypeScript,"Kortix – build, manage and train AI Agents."
+2024,datalab-to/surya,https://github.com/datalab-to/surya,2024-01-10T05:17:42Z,19275,1325,148,Python,"OCR, layout analysis, reading order, table recognition in 90+ languages"
+2024,fosrl/pangolin,https://github.com/fosrl/pangolin,2024-09-27T02:16:47Z,19084,572,96,TypeScript,"Identity-aware VPN and proxy for remote access to anything, anywhere."
+2024,birobirobiro/awesome-shadcn-ui,https://github.com/birobirobiro/awesome-shadcn-ui,2024-02-05T19:48:57Z,18808,1135,4,TypeScript,A curated list of awesome things related to shadcn/ui.
+2024,mihonapp/mihon,https://github.com/mihonapp/mihon,2024-01-15T20:03:57Z,18644,954,554,Kotlin,Free and open source manga reader for Android
+2025,openclaw/openclaw,https://github.com/openclaw/openclaw,2025-11-24T10:16:47Z,209875,38770,7963,TypeScript,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+2025,x1xhlol/system-prompts-and-models-of-ai-tools,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools,2025-03-05T16:38:29Z,115107,29683,124,,"FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+2025,anomalyco/opencode,https://github.com/anomalyco/opencode,2025-04-30T20:08:00Z,106791,10486,5433,TypeScript,The open source coding agent.
+2025,google-gemini/gemini-cli,https://github.com/google-gemini/gemini-cli,2025-04-17T17:04:31Z,94837,11247,2053,TypeScript,An open-source AI agent that brings the power of Gemini directly into your terminal.
+2025,deepseek-ai/DeepSeek-R1,https://github.com/deepseek-ai/DeepSeek-R1,2025-01-20T11:57:28Z,91843,11773,50,,
+2025,anthropics/skills,https://github.com/anthropics/skills,2025-09-22T15:53:31Z,71647,7311,299,Python,Public repository for Agent Skills
+2025,github/spec-kit,https://github.com/github/spec-kit,2025-08-21T22:54:31Z,70487,6076,636,Python,💫 Toolkit to help you get started with Spec-Driven Development
+2025,anthropics/claude-code,https://github.com/anthropics/claude-code,2025-02-22T17:41:21Z,67668,5287,6421,Shell,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+2025,openai/codex,https://github.com/openai/codex,2025-04-13T05:37:54Z,61052,8082,1362,Rust,Lightweight coding agent that runs in your terminal
+2025,obra/superpowers,https://github.com/obra/superpowers,2025-10-09T19:45:18Z,54755,4147,153,Shell,An agentic skills framework & software development methodology that works.
+2025,FoundationAgents/OpenManus,https://github.com/FoundationAgents/OpenManus,2025-03-06T14:08:14Z,54530,9542,527,Python,"No fortress, purely open ground.  OpenManus is Coming."
+2025,Zie619/n8n-workflows,https://github.com/Zie619/n8n-workflows,2025-05-14T08:43:59Z,51649,6518,17,Python,all of the workflows of n8n i could find (also from the site itself)
+2025,sansan0/TrendRadar,https://github.com/sansan0/TrendRadar,2025-04-28T11:42:16Z,46535,22206,66,Python,"⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+2025,upstash/context7,https://github.com/upstash/context7,2025-03-26T23:40:39Z,46157,2194,134,TypeScript,Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+2025,OpenCut-app/OpenCut,https://github.com/OpenCut-app/OpenCut,2025-06-22T08:02:17Z,45912,4694,261,TypeScript,The open-source CapCut alternative
+2025,karpathy/nanochat,https://github.com/karpathy/nanochat,2025-10-13T13:46:35Z,43652,5694,50,Python,The best ChatGPT that $100 can buy.
+2025,bmad-code-org/BMAD-METHOD,https://github.com/bmad-code-org/BMAD-METHOD,2025-04-13T14:54:25Z,36344,4516,38,JavaScript,Breakthrough Method for Agile Ai Driven Development
+2025,ComposioHQ/awesome-claude-skills,https://github.com/ComposioHQ/awesome-claude-skills,2025-10-17T07:15:01Z,35816,3486,177,Python,"A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+2025,tw93/Mole,https://github.com/tw93/Mole,2025-09-23T06:38:40Z,35380,962,1,Shell,🐹 Deep clean and optimize your Mac.
+2025,google/langextract,https://github.com/google/langextract,2025-07-08T20:46:06Z,33139,2212,130,Python,A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+2025,nextlevelbuilder/ui-ux-pro-max-skill,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,2025-11-30T11:36:31Z,32618,3239,54,Python,An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+2025,code-yeongyu/oh-my-opencode,https://github.com/code-yeongyu/oh-my-opencode,2025-12-03T01:40:05Z,32240,2428,193,TypeScript,the best agent harness
+2025,thedotmack/claude-mem,https://github.com/thedotmack/claude-mem,2025-08-31T20:50:03Z,29125,1961,104,TypeScript,"A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+2025,wshobson/agents,https://github.com/wshobson/agents,2025-07-24T23:28:14Z,28881,3164,8,Python,Intelligent automation and multi-agent orchestration for Claude Code
+2025,bytedance/UI-TARS-desktop,https://github.com/bytedance/UI-TARS-desktop,2025-01-19T09:04:43Z,28080,2733,346,TypeScript,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+2025,musistudio/claude-code-router,https://github.com/musistudio/claude-code-router,2025-02-25T02:17:18Z,28028,2163,786,TypeScript,"Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+2025,microsoft/playwright-mcp,https://github.com/microsoft/playwright-mcp,2025-03-21T17:48:36Z,27351,2218,69,TypeScript,Playwright MCP server
+2025,github/github-mcp-server,https://github.com/github/github-mcp-server,2025-03-04T16:42:04Z,27062,3600,271,Go,GitHub's official MCP Server
+2025,simstudioai/sim,https://github.com/simstudioai/sim,2025-01-05T22:47:49Z,26453,3302,158,TypeScript,"Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce."
+2025,ChromeDevTools/chrome-devtools-mcp,https://github.com/ChromeDevTools/chrome-devtools-mcp,2025-09-11T10:39:55Z,25956,1526,69,TypeScript,Chrome DevTools for coding agents
+2025,huggingface/open-r1,https://github.com/huggingface/open-r1,2025-01-24T15:44:11Z,25885,2413,335,Python,Fully open reproduction of DeepSeek-R1
+2025,zama-ai/fhevm,https://github.com/zama-ai/fhevm,2025-05-02T10:48:20Z,25765,2240,71,Rust,"FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications"
+2025,eyaltoledano/claude-task-master,https://github.com/eyaltoledano/claude-task-master,2025-03-04T18:54:54Z,25506,2431,156,JavaScript,"An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others."
+2025,permissionlesstech/bitchat,https://github.com/permissionlesstech/bitchat,2025-07-04T14:34:38Z,25145,2349,264,Swift,"bluetooth mesh chat, IRC vibes"
+2025,Fosowl/agenticSeek,https://github.com/Fosowl/agenticSeek,2025-02-19T18:03:06Z,25027,2775,40,Python,"Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)"
+2025,Fission-AI/OpenSpec,https://github.com/Fission-AI/OpenSpec,2025-08-05T10:37:45Z,24635,1644,228,TypeScript,Spec-driven development (SDD) for AI coding assistants.
+2025,apple/container,https://github.com/apple/container,2025-05-30T21:26:05Z,24570,657,254,Swift,"A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. "
+2025,hesreallyhim/awesome-claude-code,https://github.com/hesreallyhim/awesome-claude-code,2025-04-19T20:55:59Z,24218,1439,118,Python,"A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic"
+2025,firecrawl/open-lovable,https://github.com/firecrawl/open-lovable,2025-08-08T13:04:02Z,24184,4710,123,TypeScript,🔥 Clone and recreate any website as a modern React app in seconds
+2025,lbjlaq/Antigravity-Manager,https://github.com/lbjlaq/Antigravity-Manager,2025-11-26T10:47:13Z,23623,2659,1349,Rust,Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+2025,KeygraphHQ/shannon,https://github.com/KeygraphHQ/shannon,2025-09-27T01:51:47Z,23522,2333,23,TypeScript,"Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark."
+2025,zai-org/Open-AutoGLM,https://github.com/zai-org/Open-AutoGLM,2025-12-08T09:23:44Z,23513,3714,225,Python,An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+2025,microsoft/VibeVoice,https://github.com/microsoft/VibeVoice,2025-08-25T13:24:01Z,23334,2560,100,Python,Open-Source Frontier Voice AI
+2025,resemble-ai/chatterbox,https://github.com/resemble-ai/chatterbox,2025-04-23T08:16:38Z,22733,2986,300,Python,SoTA open-source TTS
+2025,toon-format/toon,https://github.com/toon-format/toon,2025-10-22T18:17:32Z,22693,1002,17,TypeScript,"🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK."
+2025,deepseek-ai/DeepSeek-OCR,https://github.com/deepseek-ai/DeepSeek-OCR,2025-10-17T06:14:27Z,22485,2057,282,Python,Contexts Optical Compression
+2025,a2aproject/A2A,https://github.com/a2aproject/A2A,2025-03-25T18:44:21Z,21981,2246,176,Shell,Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+2025,github/awesome-copilot,https://github.com/github/awesome-copilot,2025-06-11T16:57:39Z,21672,2472,32,JavaScript,"Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot."
+2025,linshenkx/prompt-optimizer,https://github.com/linshenkx/prompt-optimizer,2025-02-12T06:06:49Z,21473,2597,21,TypeScript,一款提示词优化器，助力于编写高质量的提示词
+2025,BloopAI/vibe-kanban,https://github.com/BloopAI/vibe-kanban,2025-06-14T19:10:21Z,21448,2051,391,Rust,"Get 10X more out of Claude Code, Codex or any coding agent"
+2025,DayuanJiang/next-ai-draw-io,https://github.com/DayuanJiang/next-ai-draw-io,2025-03-23T15:03:48Z,21316,2261,120,TypeScript,"A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+2025,datawhalechina/hello-agents,https://github.com/datawhalechina/hello-agents,2025-09-07T09:50:24Z,21105,2420,33,Python,📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+2025,davila7/claude-code-templates,https://github.com/davila7/claude-code-templates,2025-07-04T01:26:26Z,20893,1947,95,Python,CLI tool for configuring and monitoring Claude Code
+2025,SuperClaude-Org/SuperClaude_Framework,https://github.com/SuperClaude-Org/SuperClaude_Framework,2025-06-22T12:03:53Z,20866,1771,60,Python,"A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies."
+2025,OpenListTeam/OpenList,https://github.com/OpenListTeam/OpenList,2025-06-11T23:35:02Z,20797,1746,214,Go,A new AList Fork to Anti Trust Crisis
+2025,vercel-labs/agent-skills,https://github.com/vercel-labs/agent-skills,2025-12-08T19:10:06Z,20704,1882,76,JavaScript,Vercel's official collection of agent skills
+2025,winfunc/opcode,https://github.com/winfunc/opcode,2025-06-19T13:53:26Z,20588,1593,323,TypeScript,"A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
+2025,oraios/serena,https://github.com/oraios/serena,2025-03-23T22:35:24Z,20368,1370,79,Python,A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+2025,basecamp/omarchy,https://github.com/basecamp/omarchy,2025-06-01T07:26:22Z,20224,1999,387,Shell,"Beautiful, Modern & Opinionated Linux"
+2025,charmbracelet/crush,https://github.com/charmbracelet/crush,2025-05-21T12:14:57Z,20138,1242,327,Go,Glamourous agentic coding for all 💘
+2025,usestrix/strix,https://github.com/usestrix/strix,2025-08-05T21:28:30Z,20121,2114,50,Python,Open-source AI hackers to find and fix your app’s vulnerabilities.
+2025,bytedance/deer-flow,https://github.com/bytedance/deer-flow,2025-05-07T02:50:19Z,20003,2512,201,TypeScript,"An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+2025,coze-dev/coze-studio,https://github.com/coze-dev/coze-studio,2025-06-26T02:19:21Z,19881,2835,460,TypeScript,"An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation."
+2025,openai/gpt-oss,https://github.com/openai/gpt-oss,2025-06-23T16:43:33Z,19796,2037,89,Python,gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+2025,dyad-sh/dyad,https://github.com/dyad-sh/dyad,2025-04-11T06:33:48Z,19643,2230,250,TypeScript,"Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!"
+2025,enescingoz/awesome-n8n-templates,https://github.com/enescingoz/awesome-n8n-templates,2025-05-08T18:34:01Z,19208,5493,14,,"Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks."
+2025,nari-labs/dia,https://github.com/nari-labs/dia,2025-04-19T07:15:57Z,19117,1667,90,Python,A TTS model capable of generating ultra-realistic dialogue in one pass.
+2025,openai/openai-agents-python,https://github.com/openai/openai-agents-python,2025-03-11T03:42:36Z,19012,3167,93,Python,"A lightweight, powerful framework for multi-agent workflows"
+2025,QwenLM/qwen-code,https://github.com/QwenLM/qwen-code,2025-06-26T01:37:46Z,18988,1642,535,TypeScript,An open-source AI agent that lives in your terminal.
+2025,TibixDev/winboat,https://github.com/TibixDev/winboat,2025-04-04T12:03:11Z,18868,501,284,TypeScript,Run Windows apps on 🐧 Linux with ✨ seamless integration
+2025,index-tts/index-tts,https://github.com/index-tts/index-tts,2025-02-06T04:08:05Z,18840,2327,419,Python,An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+2025,farion1231/cc-switch,https://github.com/farion1231/cc-switch,2025-08-04T14:16:16Z,18831,1178,189,TypeScript,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI."
+2025,ayangweb/BongoCat,https://github.com/ayangweb/BongoCat,2025-03-28T04:50:22Z,18526,838,45,TypeScript,🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+2025,dzhng/deep-research,https://github.com/dzhng/deep-research,2025-02-04T01:27:56Z,18457,1900,78,TypeScript,"An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic."
+2025,humanlayer/12-factor-agents,https://github.com/humanlayer/12-factor-agents,2025-03-30T22:10:39Z,18250,1387,19,TypeScript,What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+2025,Alibaba-NLP/DeepResearch,https://github.com/Alibaba-NLP/DeepResearch,2025-01-09T11:07:35Z,18242,1404,77,Python,"Tongyi Deep Research, the Leading Open-source Deep Research Agent"
+2025,google-gemini/gemini-fullstack-langgraph-quickstart,https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart,2025-05-22T11:59:02Z,17873,3063,66,Jupyter Notebook,Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+2025,google/adk-python,https://github.com/google/adk-python,2025-04-01T20:44:40Z,17824,2936,532,Python,"An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+2025,agentsmd/agents.md,https://github.com/agentsmd/agents.md,2025-08-19T17:22:54Z,17619,1243,117,TypeScript,"AGENTS.md — a simple, open format for guiding coding agents"
+2025,hsliuping/TradingAgents-CN,https://github.com/hsliuping/TradingAgents-CN,2025-06-26T07:45:09Z,17476,3749,155,Python,基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+2025,stan-smith/FossFLOW,https://github.com/stan-smith/FossFLOW,2025-06-30T14:31:21Z,17406,1125,11,TypeScript,Make beautiful isometric infrastructure diagrams
+2025,NirDiamant/agents-towards-production,https://github.com/NirDiamant/agents-towards-production,2025-06-16T17:33:44Z,17362,2259,7,Jupyter Notebook," This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
+2025,astral-sh/ty,https://github.com/astral-sh/ty,2025-05-02T16:37:51Z,17270,215,721,Python,"An extremely fast Python type checker and language server, written in Rust."
+2025,ahujasid/blender-mcp,https://github.com/ahujasid/blender-mcp,2025-03-07T09:58:58Z,17142,1628,43,Python,
+2025,TecharoHQ/anubis,https://github.com/TecharoHQ/anubis,2025-03-17T17:35:28Z,17047,500,250,Go,Weighs the soul of incoming HTTP requests to stop AI crawlers
+2025,steveyegge/beads,https://github.com/steveyegge/beads,2025-10-12T03:09:46Z,16674,1009,227,Go,Beads - A memory upgrade for your coding agent
+2025,lllyasviel/FramePack,https://github.com/lllyasviel/FramePack,2025-04-12T14:45:22Z,16629,1645,474,Python,Lets make video diffusion practical!
+2025,iOfficeAI/AionUi,https://github.com/iOfficeAI/AionUi,2025-08-07T10:29:51Z,16554,1236,114,TypeScript,"Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!"
+2025,Snapchat/Valdi,https://github.com/Snapchat/Valdi,2025-11-06T17:33:28Z,16279,545,48,C++,Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+2025,gsd-build/get-shit-done,https://github.com/gsd-build/get-shit-done,2025-12-14T14:17:12Z,15951,1465,166,JavaScript,"A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode."
+2025,virattt/dexter,https://github.com/virattt/dexter,2025-10-14T21:02:00Z,15660,1874,43,TypeScript,An autonomous agent for deep financial research
+2025,browser-use/web-ui,https://github.com/browser-use/web-ui,2025-01-02T01:29:44Z,15601,2685,309,Python,🖥️ Run AI Agent in your browser.
+2025,Kilo-Org/kilocode,https://github.com/Kilo-Org/kilocode,2025-03-10T15:34:26Z,15597,2013,855,TypeScript,"Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed"
+2025,VectifyAI/PageIndex,https://github.com/VectifyAI/PageIndex,2025-04-01T10:53:54Z,15547,1125,78,Python,"📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+2025,cjpais/Handy,https://github.com/cjpais/Handy,2025-02-13T02:42:29Z,15449,1066,86,Rust,"A free, open source, and extensible speech-to-text application that works completely offline."
+2025,Wan-Video/Wan2.1,https://github.com/Wan-Video/Wan2.1,2025-02-25T11:49:33Z,15350,2398,351,Python,Wan: Open and Advanced Large-Scale Video Generative Models
+2025,google-ai-edge/gallery,https://github.com/google-ai-edge/gallery,2025-03-31T17:47:28Z,15162,1305,161,Kotlin,A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+2025,game1024/OpenSpeedy,https://github.com/game1024/OpenSpeedy,2025-05-16T16:25:43Z,15155,1143,1,C++,🎮 An open-source game speed modifier.
+2025,mindverse/Second-Me,https://github.com/mindverse/Second-Me,2025-03-16T04:06:05Z,15119,1167,146,Python,"Train your AI self, amplify you, bridge the world"
+2025,MotiaDev/motia,https://github.com/MotiaDev/motia,2025-01-02T17:45:02Z,15072,1002,55,Python,"Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management."

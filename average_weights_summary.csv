@@ -1,0 +1,11 @@
+model,commit_weight,closure_weight,pr_weight,contributor_weight
+closure_heavy,0.25,0.4,0.2,0.15
+commit_heavy,0.5,0.2,0.15,0.15
+contributor_heavy,0.25,0.25,0.15,0.35
+current_manual,0.35,0.3,0.2,0.15
+elastic_net,0.617260456,0.097483685,0.082888851,0.202367009
+equal,0.25,0.25,0.25,0.25
+gradient_boosting_importance,0.76641064,0.09774831,0.059814897,0.076026153
+linear_regression,0.630890471,0.115386689,0.094143878,0.159578962
+optimized_weights,66.673%,3.541%,8.238%,21.549%
+random_forest_importance,0.770151668,0.113753488,0.061069318,0.055025526
